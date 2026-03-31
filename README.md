@@ -1,41 +1,64 @@
 # 👋 Hi, I'm Hari Prajwal
 
-🚀 Building AI-powered tools, automation systems & real-world solutions
-💡 Passionate about solving problems using code, not just writing it
+🚀 Building real-world tech solutions using AI, automation & smart systems  
+💡 Focused on creating impactful projects — not just writing code  
 
 ---
 
 ## 🧠 About Me
 
 * 🎓 Computer Science Student (VTU)
-* ⚙️ Focus: **AI Tools, Automation, Backend Systems**
-* 🔍 Exploring: Real-world scalable solutions & productivity systems
-* 🎯 Goal: Build impactful products + contribute to meaningful tech
+* ⚙️ Focus: **AI Systems, Automation, APIs & Backend Logic**
+* 🔍 Building practical tools that solve real-world problems
+* 🎯 Goal: Create scalable products & meaningful tech solutions  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 HariAI – Session-Based AI System
+### ⚖️ Bail Reckoner (Smart India Hackathon)
 
-* Built an AI system with session memory & frontend interaction
-* Focus on user context retention and smart responses
-* Tech: Python, AI APIs, Frontend integration
+* AI-powered system to assist undertrial prisoners & legal authorities  
+* Streamlines bail decisions using legal parameters & logic  
+* Designed for real-world judicial support use cases  
+* Tech: AI Integration, Data Processing, Web Systems  
+
+---
+
+### 🚦 AI Traffic Management System
+
+* Smart traffic system that dynamically adjusts signals using real-time data  
+* Uses map-based APIs instead of physical sensors  
+* Focus on reducing congestion with intelligent automation  
+* Tech: APIs, AI Logic, System Design  
 
 ---
 
 ### 🤖 Telegram Automation System
 
-* Automated bulk messaging with smart filtering
-* Prevents duplicate messaging using logic control
-* Focus on real-world automation problem
+* Automated bulk messaging system with smart filtering  
+* Prevents duplicate messaging using strict logic control  
+* Handles large-scale group messaging efficiently  
+* Focus on real-world automation problems  
 
 ---
 
-### 🌐 Portfolio Website
+### 🕉️ Ekadashi & Sankashti API + npm Package
 
-* Personal portfolio showcasing projects & skills
-* Clean UI + structured project display
+* Built an API providing accurate Ekadashi & Sankashti dates  
+* Developed and published an npm package for easy integration  
+* Designed for developers to plug into apps, bots, or websites  
+* Focus on usability, accuracy & real-world utility  
+* Tech: Node.js, API Development, npm Publishing  
+
+---
+
+### 🌐 Developer Portfolio + npm Integration
+
+* Personal portfolio showcasing projects & technical work  
+* Integrated custom npm package (Ekadashi API)  
+* Clean UI with structured project display  
+* Focus on performance, clarity & real-world usage  
 
 ---
 
@@ -43,46 +66,49 @@
 
 ### 💻 Languages
 
-* Python
-* JavaScript
-* C / C++
+* Python  
+* JavaScript  
+* C / C++  
 
 ### ⚙️ Tools & Technologies
 
-* Git & GitHub
-* APIs
-* Automation Tools
-* Web Development Basics
+* Git & GitHub  
+* API Development & Integration  
+* Automation Systems  
+* Node.js Ecosystem  
+* Web Development  
+* Problem-Solving & System Design  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Hariprajwal\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Hariprajwal&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🌍 Connect With Me
 
-* 📧 Email: [hariprajwal77@gmail.com](mailto:hariprajwal77@gmail.com)
-* 🔗 LinkedIn: https://www.linkedin.com/in/k-r-hari-prajwal-655373256/
-* 💻 GitHub: https://github.com/Hariprajwal
+* 📧 Email: hariprajwal77@gmail.com  
+* 🔗 LinkedIn: https://www.linkedin.com/in/k-r-hari-prajwal-655373256/  
+* 💻 GitHub: https://github.com/Hariprajwal  
 
 ---
 
-## ⚡ What Makes Me Different?
+## ⚡ What Sets Me Apart
 
-I don't just learn tech — I **apply it to real problems**
-From AI systems to automation tools, I focus on building things that *actually work in the real world.*
+I focus on **building systems that solve real-world problems**, not just theoretical projects.  
+From legal tech to developer APIs, I create solutions that are **practical, scalable, and usable**.
 
 ---
 
 ## 🚀 Current Focus
 
-* AI-powered tools
-* Automation systems
-* Building impactful projects for real users
+* API-based products  
+* AI-powered tools  
+* Automation systems  
+* Developer-focused utilities  
 
 ---
 
-⭐ If you like my work, consider following or collaborating!
+⭐ If you find my work interesting, feel free to connect or collaborate!
