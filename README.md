@@ -1,11 +1,5 @@
-#**Hi there, I'm Hariprajwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">**
-## **👋 Hi, I'm Hari Prajwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">**
-## **👋 Hi, I'm Hari Prajwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">**
 
-
-
-
-# 👋 Hi, I'm Hari Prajwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
+## ** Hi, I'm Hari Prajwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">**
 
 🚀 Building real-world tech solutions using AI, automation & smart systems  
 💡 Focused on creating impactful projects — not just writing code  
