@@ -1,3 +1,18 @@
+## **Hi there, I'm Hariprajwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">**
+
+- **Just passing by 👻**
+- **Creating new things and having fun 🚀**
+
+##  🐙 **Stats**
+
+![Hariprajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hariprajwal&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprajwal&layout=compact&theme=radical)
+
+<!-- Note: You can replace `theme=radical` with other themes like `dark`, `dracula`, `tokyonight`, etc., to match your style. -->
+
+
+
 # 👋 Hi, I'm Hari Prajwal
 
 🚀 Building real-world tech solutions using AI, automation & smart systems  
