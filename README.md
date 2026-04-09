@@ -1,5 +1,4 @@
-
-## ** Hi, I'm Hari Prajwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">**
+## **Hi, I'm Hari Prajwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">**
 
 🚀 Building real-world tech solutions using AI, automation & smart systems  
 💡 Focused on creating impactful projects — not just writing code  
