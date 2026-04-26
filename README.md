@@ -16,12 +16,12 @@
 
 ## 🚀 Featured Projects
 
-### ⚖️ Bail Reckoner (Smart India Hackathon)
+### 🏠 Ollama Local LLM Server (Private AI Infrastructure)
 
-* AI-powered system to assist undertrial prisoners & legal authorities  
-* Streamlines bail decisions using legal parameters & logic  
-* Designed for real-world judicial support use cases  
-* Tech: AI Integration, Data Processing, Web Systems  
+* Engineered a high-performance, self-hosted inference server to deploy and manage Large Language Models (LLMs) locally.
+* Eliminated cloud dependency and API costs by providing a secure, OpenAI-compatible REST API for private AI development.
+* Optimized for low-latency performance within WSL2/Ubuntu environments, supporting models like Llama 3, CodeLlama, and Mistral.
+* Tech: AI Infrastructure, Linux/WSL2, Shell Scripting, REST APIs, Model Optimization. 
 
 ---
 
