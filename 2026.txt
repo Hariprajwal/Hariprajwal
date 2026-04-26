@@ -1,0 +1,43 @@
+This is the ultimate **"Master Repository Index"** for your GitHub profile. It organizes your projects by their functional "Domain," making it easy for a recruiter or collaborator to see the breadth of your skills—from **Creative AI** and **Sacred Geometry** to **National-Level Hackathons**.
+
+---
+
+## 🚀 The Hariprajwal Portfolio Index (2026)
+
+| Project Name | Domain | Primary Tech | Description & Key Feature | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **SIH Coal Mine** | Safety / IoT | React, Node.js | **National Hackathon Project:** Real-time hazard monitoring. | [Repo](https://github.com/Hariprajwal/sih_coalMine) |
+| **Bail-Reckoner** | LegalTech | Logic Engine | **Judicial Tool:** Automated bail estimation logic. | [Repo](https://github.com/Hariprajwal/Bail-Reckenor) |
+| **AI-Generator** | Gen-AI | Ollama, Python | **Creative Hub:** Multi-modal AI synthesis framework. | [Repo](https://github.com/Hariprajwal/AI-GENERATOR-) |
+| **Local LLM Server** | Infrastructure | Ollama, Ubuntu | **Private AI:** Self-hosted inference server for LLMs. | [Repo](https://github.com/Hariprajwal/ollama-local-llm-server) |
+| **Cymatics Visualizer** | Creative Tech | Python, FFT | **Physics Art:** Visualizes voice as geometric patterns. | [Repo](https://github.com/Hariprajwal/Voice-Frequency-Visualizer-Cymatics-Audio-Art-Generator) |
+| **3D Shatkona** | Web Graphics | Three.js / CSS | **Math Geometry:** Interactive 3D "Anti-Gravity" Star. | [Repo](https://github.com/Hariprajwal/3D-Shatkona-Hexagram-Star-of-David) |
+| **Keyword Crawler** | SEO / Data | Python, Scrapy | **Intelligence:** Crawls and visualizes keyword density. | [Repo](https://github.com/Hariprajwal/keyword-crawler-visualizer) |
+| **JIT Portal** | Education | React, Vercel | **Community:** File-sharing hub for Jyothy Institute. | [Repo](https://github.com/Hariprajwal/Collage-website-filesharing) |
+| **YouTube2GIF** | Media | yt-dlp, Python | **Converter:** High-fidelity web video to GIF extraction. | [Repo](https://github.com/Hariprajwal/YouTube2GIF) |
+| **TGForwarder** | Automation | Telethon / API | **Middleware:** Cross-group Telegram content sync. | [Repo](https://github.com/Hariprajwal/TGForwarder) |
+| **My Resume** | Career | Markdown/Web | **Professional Anchor:** Central hub for career stats. | [Repo](https://github.com/Hariprajwal/MY--RESUME) |
+
+---
+
+## 🛠 The Automation & Media Utility Suite
+*These are the specialized "worker" scripts that power your larger content pipelines.*
+
+| Repository Name | Focus | Utility | Link |
+| :--- | :--- | :--- | :--- |
+| **Auto_gif_uploader** | Distribution | Bulk GIPHY API uploading & verification. | [Repo](https://github.com/Hariprajwal/Auto_gif_uploader-Giphy) |
+| **AutoGifTagger** | SEO / Metadata | Automated semantic tagging for media files. | [Repo](https://github.com/Hariprajwal/AutoGifTagger) |
+| **Vid2GIF** | Conversion | Local video-to-GIF processing engine. | [Repo](https://github.com/Hariprajwal/Vid2GIF) |
+| **TG Pinned Sync** | Admin | Specific bot for forwarding channel announcements. | [Repo](https://github.com/Hariprajwal/telegram-pinned-message-forwarder) |
+| **Coordinates-** | RPA Tool | Precise X/Y mouse mapping for PyAutoGUI. | [Repo](https://github.com/Hariprajwal/CORDINATES-) |
+| **AutoNumberTyper** | Productivity | Sequential input automation for data entry. | [Repo](https://github.com/Hariprajwal/AutoNumberTyper) |
+| **GIF-Deletion** | Maintenance | Bulk cleanup tool for media pipeline storage. | [Repo](https://github.com/Hariprajwal/GIF-Deletion) |
+
+---
+
+### 💡 Portfolio Strategy Note
+When you look at this table, you can see a clear **"Automation Engineer"** identity emerging. You have the infrastructure (Ollama), the tools (PyAutoGUI/Telegram), and the high-level logic (Legal/Safety). 
+
+**Next Step:** You should copy this main table into your **"My Resume"** repository or your **GitHub Profile README**. It gives visitors an immediate "Table of Contents" to your brain! 🚀💻
+
+Would you like me to group these into a **"Skills Summary"** (e.g., "Python Expertise," "React Expertise") based on this table?
