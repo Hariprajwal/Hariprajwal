@@ -18,11 +18,10 @@
 
 ### 🏠 Ollama Local LLM Server (Private AI Infrastructure)
 
-* Engineered a high-performance, self-hosted inference server to deploy and manage Large Language Models (LLMs) locally.
-* Eliminated cloud dependency and API costs by providing a secure, OpenAI-compatible REST API for private AI development.
-* Optimized for low-latency performance within WSL2/Ubuntu environments, supporting models like Llama 3, CodeLlama, and Mistral.
-* Tech: AI Infrastructure, Linux/WSL2, Shell Scripting, REST APIs, Model Optimization. 
-
+* Engineered a high-performance local server for secure LLM deployment.
+* Eliminated API costs via a secure, OpenAI-compatible REST API.
+* Optimized for low-latency inference on WSL2/Ubuntu environments.
+* Tech: AI Infrastructure, Linux, Shell Scripting, REST APIs.
 ---
 
 ### 🚦 AI Traffic Management System
