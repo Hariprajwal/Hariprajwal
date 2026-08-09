@@ -71,10 +71,10 @@ export default function Navbar({ onOpenTerminal, theme, onToggleTheme }) {
             </kbd>
           </button>
 
-          {/* Vercel Status Badge */}
+          {/* Status Badge */}
           <div className="hidden lg:flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-[11px] font-mono text-emerald-700 dark:text-emerald-300">
-            <Globe className="w-3 h-3 text-emerald-600 dark:text-emerald-400" />
-            Vercel Ready
+            <Globe className="w-3 h-3 text-emerald-600 dark:text-emerald-400 animate-pulse" />
+            AI Systems Active
           </div>
 
           {/* GitHub Link */}

@@ -1,12 +1,12 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { X, Terminal as TerminalIcon, CornerDownLeft, Sparkles, Bot } from 'lucide-react';
+import { X, Terminal as TerminalIcon, CornerDownLeft, Sparkles, Bot, RefreshCw } from 'lucide-react';
 import { chatWithAI, AI_PROFILES } from '../lib/openrouter';
 
 export default function InteractiveTerminalModal({ isOpen, onClose }) {
   const [inputVal, setInputVal] = useState('');
   const [history, setHistory] = useState([
-    { type: 'sys', text: '⚡ HARIPRAJWAL AI COMMAND CENTER v3.0 | OpenRouter AI Enabled' },
-    { type: 'sys', text: 'Commands: help | bio | repos | ai-stock | ekadashi | ocr | gif | contact | ask [anything] | clear' }
+    { type: 'sys', text: '⚡ HARIPRAJWAL AI COMMAND CENTER v3.5 | OpenRouter AI & Natural Agent Active' },
+    { type: 'sys', text: 'Type any system command (help, bio, repos, ai-stock, ekadashi, ocr, contact) or chat naturally (e.g. "hello who are u", "what can you build?")' }
   ]);
   const [isAiLoading, setIsAiLoading] = useState(false);
   const inputRef = useRef(null);
@@ -20,140 +20,175 @@ export default function InteractiveTerminalModal({ isOpen, onClose }) {
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
-  }, [history]);
+  }, [history, isAiLoading]);
 
   if (!isOpen) return null;
 
   const handleCommand = async (e) => {
     e.preventDefault();
-    const cmd = inputVal.trim().toLowerCase();
     const raw = inputVal.trim();
-    if (!raw) return;
-    const isAsk = cmd.startsWith('ask ');
-    const newHistory = [...history, { type: 'user', text: `$ ${inputVal}` }];
-    if (isAsk) {
-      const question = raw.slice(4).trim();
-      setHistory([...newHistory, { type: 'output', text: '🤖 AI is thinking via OpenRouter...' }]);
-      setInputVal('');
-      setIsAiLoading(true);
-      try {
-        const reply = await chatWithAI(AI_PROFILES.generalAssistant, question);
-        setHistory((prev) => [
-          ...prev.slice(0, -1),
-          { type: 'output', text: `🤖 AI RESPONSE:\n${reply}` }
-        ]);
-      } catch (err) {
-        setHistory((prev) => [...prev.slice(0, -1), { type: 'error', text: `AI Error: ${err.message}` }]);
-      } finally {
-        setIsAiLoading(false);
-      }
-      return;
-    }
+    if (!raw || isAiLoading) return;
+    const cmd = raw.toLowerCase();
 
-    switch (cmd) {
-      case 'help':
-        newHistory.push({
+    const userEntry = { type: 'user', text: `$ ${raw}` };
+    setInputVal('');
+
+    // Fixed Built-in Commands
+    if (cmd === 'help') {
+      setHistory((prev) => [
+        ...prev,
+        userEntry,
+        {
           type: 'output',
-          text: `AVAILABLE COMMANDS:
+          text: `AVAILABLE SYSTEM COMMANDS:
   help      - Display this command reference
-  bio       - Show Hariprajwal profile summary
+  bio       - Show Hariprajwal profile summary & MIT Manipal credentials
   repos     - List public GitHub repositories
   ai-stock  - Execute AI Stock Catalyst simulation
   ekadashi  - Calculate Hindu astronomical dates
   ocr       - Trigger desktop vision scan
   contact   - Display social links & email
   gif       - View Tenor automation agent status
-  ask [msg] - 💬 Chat with OpenRouter AI live!
-  clear     - Clear terminal history`
-        });
-        break;
+  clear     - Clear terminal history
+  
+🤖 NATURAL AI CHAT:
+  Type any natural question (e.g. "hello who are u", "tell me about your AI projects") to chat directly with Hariprajwal's AI engine!`
+        }
+      ]);
+      return;
+    }
 
-      case 'bio':
-        newHistory.push({
+    if (cmd === 'bio') {
+      setHistory((prev) => [
+        ...prev,
+        userEntry,
+        {
           type: 'output',
           text: `K R HARI PRAJWAL (Hariprajwal)
 Institution: MIT Manipal — Computer Science Engineering
 Tagline: "Building scalable systems by combining AI, automation, and APIs."
 Specialties: Autonomous LLM Swarms, Astronomical Calculation Engines, Desktop Vision OCR, MIT Manipal CS Engineering.`
-        });
-        break;
+        }
+      ]);
+      return;
+    }
 
-      case 'repos':
-        newHistory.push({
+    if (cmd === 'repos') {
+      setHistory((prev) => [
+        ...prev,
+        userEntry,
+        {
           type: 'output',
           text: `PUBLIC REPOSITORIES (@Hariprajwal):
   1. Ai-stock-calendar [Python/LLMs] - Autonomous NSE catalyst calendar engine.
   2. Ekadashi-api [JavaScript/NPM]  - Astronomical fasting date API & npm package.
   3. LiveScreenOCR [Python/OpenCV]   - Google Lens style desktop screen OCR.
   4. Ganesha-manwa [Python/GenAI]   - AI webtoon content automation pipeline.
-  5. PROMPT-FOR-STUDYING-VTU        - VTU CS academic prompt matrix.`
-        });
-        break;
+  5. PROMPT-FOR-STUDYING-VTU        - CS academic prompt matrix.`
+        }
+      ]);
+      return;
+    }
 
-      case 'ai-stock':
-        newHistory.push({
+    if (cmd === 'ai-stock') {
+      setHistory((prev) => [
+        ...prev,
+        userEntry,
+        {
           type: 'output',
           text: `[EXEC] Running Multi-LLM Swarm on NSE RELIANCE.NS...
 ✓ Pulled quarterly metric snapshots.
 ✓ Multi-provider LLM Consensus: BULLISH (78.4% Confidence).
 ✓ Catalyst Forecast: Earnings breakout expected.`
-        });
-        break;
+        }
+      ]);
+      return;
+    }
 
-      case 'ekadashi':
-        newHistory.push({
+    if (cmd === 'ekadashi') {
+      setHistory((prev) => [
+        ...prev,
+        userEntry,
+        {
           type: 'output',
           text: `[EXEC] Calculating Astronomical Fasting Ephemeris for 2026...
 ✓ Next Shukla Ekadashi: Pavitra Ekadashi (Parana: 06:12 AM)
 ✓ Next Krishna Ekadashi: Aja Ekadashi (Parana: 06:18 AM)
 ✓ Package: npm i ekadashi-api`
-        });
-        break;
+        }
+      ]);
+      return;
+    }
 
-      case 'ocr':
-        newHistory.push({
+    if (cmd === 'ocr') {
+      setHistory((prev) => [
+        ...prev,
+        userEntry,
+        {
           type: 'output',
           text: `[EXEC] Triggering LiveScreenOCR Desktop Region Scan...
 ✓ Screen region captured: (x:240, y:180, w:800, h:450)
 ✓ Tesseract OCR Output: "SYSTEM AUTOMATION ACTIVE — 100% PRECISION"`
-        });
-        break;
+        }
+      ]);
+      return;
+    }
 
-      case 'gif':
-        newHistory.push({
+    if (cmd === 'gif') {
+      setHistory((prev) => [
+        ...prev,
+        userEntry,
+        {
           type: 'output',
           text: `[EXEC] Tenor Automated Agent Pipeline...
 ✓ Active batch task: 2,319+ GIF URLs processed.
 ✓ Background status: UNINTERRUPTED 24/7 EXECUTION.`
-        });
-        break;
+        }
+      ]);
+      return;
+    }
 
-      case 'contact':
-        newHistory.push({
+    if (cmd === 'contact') {
+      setHistory((prev) => [
+        ...prev,
+        userEntry,
+        {
           type: 'output',
           text: `CONNECT WITH HARIPRAJWAL:
   GitHub: https://github.com/Hariprajwal
-  LinkedIn: https://linkedin.com/in/k-r-hari-prajwal-655373256
-  Institution: MIT Manipal — Computer Science Engineering
   Location: India`
-        });
-        break;
-
-      case 'clear':
-        setHistory([]);
-        setInputVal('');
-        return;
-
-      default:
-        newHistory.push({
-          type: 'error',
-          text: `Command not recognized: "${cmd}". Type "help" for a list of available commands.`
-        });
-        break;
+        }
+      ]);
+      return;
     }
 
-    setHistory(newHistory);
-    setInputVal('');
+    if (cmd === 'clear') {
+      setHistory([]);
+      return;
+    }
+
+    // Natural Language Query -> Route directly to OpenRouter AI Engine
+    const question = raw.startsWith('ask ') ? raw.slice(4).trim() : raw;
+    setHistory((prev) => [...prev, userEntry]);
+    setIsAiLoading(true);
+
+    try {
+      const aiReply = await chatWithAI(AI_PROFILES.generalAssistant, question);
+      setHistory((prev) => [
+        ...prev,
+        {
+          type: 'output',
+          text: `🤖 [AI RESPONSE]:\n${aiReply}`
+        }
+      ]);
+    } catch (err) {
+      setHistory((prev) => [
+        ...prev,
+        { type: 'error', text: `AI Error: ${err.message}` }
+      ]);
+    } finally {
+      setIsAiLoading(false);
+    }
   };
 
   return (
@@ -178,7 +213,7 @@ Specialties: Autonomous LLM Swarms, Astronomical Calculation Engines, Desktop Vi
         </div>
 
         {/* Terminal Output Area */}
-        <div className="flex-1 p-4 font-mono text-xs space-y-2 overflow-y-auto text-slate-300">
+        <div className="flex-1 p-4 font-mono text-xs space-y-3 overflow-y-auto text-slate-300">
           {history.map((item, idx) => (
             <div
               key={idx}
@@ -189,12 +224,20 @@ Specialties: Autonomous LLM Swarms, Astronomical Calculation Engines, Desktop Vi
                   ? 'text-cyan-300 font-bold'
                   : item.type === 'error'
                   ? 'text-rose-400'
-                  : 'text-slate-300 whitespace-pre-wrap'
+                  : 'text-slate-200 whitespace-pre-wrap leading-relaxed'
               }`}
             >
               {item.text}
             </div>
           ))}
+
+          {isAiLoading && (
+            <div className="text-emerald-400 font-mono text-xs flex items-center gap-2 animate-pulse">
+              <RefreshCw className="w-3.5 h-3.5 animate-spin" />
+              🤖 AI Engine analyzing & responding via OpenRouter...
+            </div>
+          )}
+
           <div ref={bottomRef} />
         </div>
 
@@ -206,12 +249,13 @@ Specialties: Autonomous LLM Swarms, Astronomical Calculation Engines, Desktop Vi
             type="text"
             value={inputVal}
             onChange={(e) => setInputVal(e.target.value)}
-            placeholder="Type a command (e.g. help, ai-stock, ekadashi, repos)..."
+            placeholder='Type any question or command (e.g. "hello who are u", "help", "ai-stock")...'
             className="flex-1 bg-transparent text-xs font-mono text-slate-100 focus:outline-none placeholder-slate-500"
           />
           <button
             type="submit"
-            className="p-1.5 rounded bg-emerald-500 hover:bg-emerald-400 text-slate-950 transition-colors"
+            disabled={isAiLoading || !inputVal.trim()}
+            className="p-1.5 rounded bg-emerald-500 hover:bg-emerald-400 disabled:opacity-40 text-slate-950 transition-colors"
           >
             <CornerDownLeft className="w-3.5 h-3.5" />
           </button>
