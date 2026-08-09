@@ -11,7 +11,24 @@ import ContactFooter from './components/ContactFooter';
 import AIChatWidget from './components/AIChatWidget';
 
 export default function App() {
+  // Light mode is default as explicitly requested by user
+  const [theme, setTheme] = useState(() => {
+    return localStorage.getItem('hariprajwal_theme') || 'light';
+  });
+
   const [isTerminalOpen, setIsTerminalOpen] = useState(false);
+
+  useEffect(() => {
+    const root = document.documentElement;
+    if (theme === 'dark') {
+      root.classList.add('dark');
+      root.classList.remove('light');
+    } else {
+      root.classList.add('light');
+      root.classList.remove('dark');
+    }
+    localStorage.setItem('hariprajwal_theme', theme);
+  }, [theme]);
 
   useEffect(() => {
     const handleKeyDown = (e) => {
@@ -24,18 +41,26 @@ export default function App() {
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, []);
 
+  const toggleTheme = () => {
+    setTheme((prev) => (prev === 'light' ? 'dark' : 'light'));
+  };
+
   const scrollToProjects = () => {
     document.getElementById('capabilities')?.scrollIntoView({ behavior: 'smooth' });
   };
 
   return (
-    <div className="relative min-h-screen bg-[#06080d] text-slate-100 font-sans selection:bg-emerald-500/30 selection:text-emerald-300 antialiased overflow-x-hidden bg-cyber-grid">
+    <div className="relative min-h-screen bg-slate-50 dark:bg-[#06080d] text-slate-900 dark:text-slate-100 font-sans selection:bg-emerald-500/30 selection:text-emerald-600 dark:selection:text-emerald-300 antialiased overflow-x-hidden bg-cyber-grid transition-colors duration-300">
       
       {/* Dynamic Particle Neural Canvas Background */}
-      <NeuralCanvas />
+      <NeuralCanvas theme={theme} />
 
-      {/* Navigation Bar */}
-      <Navbar onOpenTerminal={() => setIsTerminalOpen(true)} />
+      {/* Navigation Bar with Theme Toggle */}
+      <Navbar
+        onOpenTerminal={() => setIsTerminalOpen(true)}
+        theme={theme}
+        onToggleTheme={toggleTheme}
+      />
 
       {/* Main Content */}
       <main className="relative z-10">

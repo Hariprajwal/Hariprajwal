@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 
-export default function NeuralCanvas() {
+export default function NeuralCanvas({ theme }) {
   const canvasRef = useRef(null);
 
   useEffect(() => {
@@ -19,6 +19,8 @@ export default function NeuralCanvas() {
 
     window.addEventListener('resize', handleResize);
 
+    const isDark = theme === 'dark';
+
     // Particle nodes
     const particleCount = Math.min(Math.floor(width / 18), 65);
     const particles = [];
@@ -30,7 +32,9 @@ export default function NeuralCanvas() {
         vx: (Math.random() - 0.5) * 0.4,
         vy: (Math.random() - 0.5) * 0.4,
         radius: Math.random() * 1.8 + 1,
-        color: i % 3 === 0 ? '#10b981' : i % 3 === 1 ? '#06b6d4' : '#8b5cf6'
+        color: isDark
+          ? (i % 3 === 0 ? '#10b981' : i % 3 === 1 ? '#06b6d4' : '#8b5cf6')
+          : (i % 3 === 0 ? '#059669' : i % 3 === 1 ? '#0284c7' : '#7c3aed')
       });
     }
 
@@ -58,8 +62,10 @@ export default function NeuralCanvas() {
             ctx.beginPath();
             ctx.moveTo(particles[i].x, particles[i].y);
             ctx.lineTo(particles[j].x, particles[j].y);
-            const alpha = (1 - dist / 140) * 0.18;
-            ctx.strokeStyle = `rgba(16, 185, 129, ${alpha})`;
+            const alpha = (1 - dist / 140) * (isDark ? 0.18 : 0.22);
+            ctx.strokeStyle = isDark
+              ? `rgba(16, 185, 129, ${alpha})`
+              : `rgba(5, 150, 105, ${alpha})`;
             ctx.lineWidth = 0.8;
             ctx.stroke();
           }
@@ -87,7 +93,7 @@ export default function NeuralCanvas() {
         ctx.arc(p.x, p.y, p.radius, 0, Math.PI * 2);
         ctx.fillStyle = p.color;
         ctx.shadowColor = p.color;
-        ctx.shadowBlur = 8;
+        ctx.shadowBlur = isDark ? 8 : 4;
         ctx.fill();
         ctx.shadowBlur = 0;
       });
@@ -102,12 +108,12 @@ export default function NeuralCanvas() {
       window.removeEventListener('mousemove', handleMouseMove);
       cancelAnimationFrame(animationFrameId);
     };
-  }, []);
+  }, [theme]);
 
   return (
     <canvas
       ref={canvasRef}
-      className="fixed inset-0 pointer-events-none z-0 opacity-45"
+      className={`fixed inset-0 pointer-events-none z-0 ${theme === 'dark' ? 'opacity-45' : 'opacity-60'}`}
     />
   );
 }
