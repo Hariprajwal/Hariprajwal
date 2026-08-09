@@ -22,7 +22,7 @@ export default function TechStackVault() {
 
     { name: 'Git & GitHub Workflow', category: 'Tools & Systems', level: 'Expert', desc: 'Repository management, open-source publishing, actions, and CI/CD pipelines.' },
     { name: 'Batch Pipeline Automation', category: 'Tools & Systems', level: 'Expert', desc: 'Background agent loops, media extraction, and 24/7 uninterrupted schedulers.' },
-    { name: 'VTU CS Syllabus Matrix', category: 'Tools & Systems', level: 'Academic', desc: 'System software, compiler design, Operating Systems, and DBMS structures.' }
+    { name: 'MIT Manipal CS Curriculum', category: 'Tools & Systems', level: 'Academic', desc: 'Data Structures, Algorithms, Operating Systems, DBMS, and Computer Networks core modules.' }
   ];
 
   const filteredTech = activeCategory === 'All' ? techVault : techVault.filter(t => t.category === activeCategory);

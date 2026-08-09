@@ -8,6 +8,7 @@ import LiveGitHubRepos from './components/LiveGitHubRepos';
 import TechStackVault from './components/TechStackVault';
 import InteractiveTerminalModal from './components/InteractiveTerminalModal';
 import ContactFooter from './components/ContactFooter';
+import AIChatWidget from './components/AIChatWidget';
 
 export default function App() {
   const [isTerminalOpen, setIsTerminalOpen] = useState(false);
@@ -60,6 +61,9 @@ export default function App() {
         isOpen={isTerminalOpen}
         onClose={() => setIsTerminalOpen(false)}
       />
+
+      {/* Live OpenRouter AI Chat Widget (bottom-right) */}
+      <AIChatWidget />
 
     </div>
   );

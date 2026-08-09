@@ -102,8 +102,8 @@ export default function ProjectVault() {
       title: 'PROMPT-FOR-STUDYING-VTU',
       category: 'Academic AI Framework',
       githubUrl: 'https://github.com/Hariprajwal/PROMPT-FOR-STUDYING-VTU',
-      description: 'Comprehensive repository containing structured AI prompts engineered to assist VTU Computer Science students in learning complex engineering algorithms and syllabus topics.',
-      tech: ['Prompt Engineering', 'Markdown', 'VTU Curriculum', 'Algorithm Analysis'],
+      description: 'Comprehensive repository containing structured AI prompts engineered to assist MIT Manipal Computer Science students in learning complex engineering algorithms and syllabus topics.',
+      tech: ['Prompt Engineering', 'Markdown', 'MIT Manipal Curriculum', 'Algorithm Analysis'],
       hasSimulator: 'vtu'
     },
     {
@@ -362,9 +362,9 @@ export default function ProjectVault() {
                       {/* Simulator for VTU Prompt */}
                       {project.hasSimulator === 'vtu' && (
                         <div className="space-y-2 text-slate-300">
-                          <div className="text-rose-400 font-semibold">🎓 VTU Computer Science Prompt Explorer</div>
+                          <div className="text-rose-400 font-semibold">🎓 MIT Manipal Computer Science Prompt Explorer</div>
                           <div className="p-2.5 rounded bg-slate-900 border border-rose-500/30 text-[11px]">
-                            <span className="text-rose-300">Prompt Module 18CS61:</span> System Software & Compiler Design optimization prompts ready for VTU exam prep.
+                            <span className="text-rose-300">Prompt Module CS301:</span> Data Structures & Algorithms optimization prompts ready for MIT Manipal exam prep.
                           </div>
                         </div>
                       )}

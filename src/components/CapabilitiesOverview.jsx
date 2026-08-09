@@ -49,14 +49,14 @@ export default function CapabilitiesOverview() {
     },
     {
       id: 'vtu-matrix',
-      title: 'VTU Engineering AI Prompt Matrix',
-      subtitle: 'Computer Science Academic Acceleration',
-      description: 'Engineering optimized AI prompt frameworks specifically tailored for VTU Computer Science subjects, enabling students to master core algorithms and system design faster.',
+      title: 'MIT Manipal Engineering AI Prompt Matrix',
+      subtitle: 'MIT Manipal CS Engineering Academic Acceleration',
+      description: 'Engineering optimized AI prompt frameworks specifically tailored for MIT Manipal Computer Science subjects, enabling students to master core algorithms and system design faster.',
       icon: GraduationCap,
       accent: 'from-rose-500 to-pink-500',
       borderGlow: 'hover:border-rose-500/50',
       badge: 'Education Tech',
-      highlights: ['VTU Syllabus Alignment', 'Structured AI Prompts', 'Algorithm Conceptualization', 'Exam Preparation']
+      highlights: ['MIT Manipal Syllabus Alignment', 'Structured AI Prompts', 'Algorithm Conceptualization', 'Exam Preparation']
     },
     {
       id: 'media-automation',

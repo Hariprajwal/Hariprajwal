@@ -86,8 +86,8 @@ export default function Hero({ onOpenTerminal, onScrollToProjects }) {
                 <div className="text-xs font-mono text-slate-400">Published APIs</div>
               </div>
               <div>
-                <div className="font-display font-extrabold text-2xl text-violet-400">VTU CS</div>
-                <div className="text-xs font-mono text-slate-400">System Engineering</div>
+                <div className="font-display font-extrabold text-2xl text-violet-400">MIT Manipal</div>
+                <div className="text-xs font-mono text-slate-400">CS Engineering</div>
               </div>
             </div>
 

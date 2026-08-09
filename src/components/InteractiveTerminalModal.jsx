@@ -1,12 +1,14 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { X, Terminal as TerminalIcon, CornerDownLeft, Sparkles } from 'lucide-react';
+import { X, Terminal as TerminalIcon, CornerDownLeft, Sparkles, Bot } from 'lucide-react';
+import { chatWithAI, AI_PROFILES } from '../lib/openrouter';
 
 export default function InteractiveTerminalModal({ isOpen, onClose }) {
   const [inputVal, setInputVal] = useState('');
   const [history, setHistory] = useState([
-    { type: 'sys', text: '⚡ HARIPRAJWAL AI COMMAND CENTER v2.5' },
-    { type: 'sys', text: 'Type "help" to list available system commands or "matrix" for matrix rain.' }
+    { type: 'sys', text: '⚡ HARIPRAJWAL AI COMMAND CENTER v3.0 | OpenRouter AI Enabled' },
+    { type: 'sys', text: 'Commands: help | bio | repos | ai-stock | ekadashi | ocr | gif | contact | ask [anything] | clear' }
   ]);
+  const [isAiLoading, setIsAiLoading] = useState(false);
   const inputRef = useRef(null);
   const bottomRef = useRef(null);
 
@@ -22,12 +24,31 @@ export default function InteractiveTerminalModal({ isOpen, onClose }) {
 
   if (!isOpen) return null;
 
-  const handleCommand = (e) => {
+  const handleCommand = async (e) => {
     e.preventDefault();
     const cmd = inputVal.trim().toLowerCase();
-    if (!cmd) return;
-
+    const raw = inputVal.trim();
+    if (!raw) return;
+    const isAsk = cmd.startsWith('ask ');
     const newHistory = [...history, { type: 'user', text: `$ ${inputVal}` }];
+    if (isAsk) {
+      const question = raw.slice(4).trim();
+      setHistory([...newHistory, { type: 'output', text: '🤖 AI is thinking via OpenRouter...' }]);
+      setInputVal('');
+      setIsAiLoading(true);
+      try {
+        const reply = await chatWithAI(AI_PROFILES.generalAssistant, question);
+        setHistory((prev) => [
+          ...prev.slice(0, -1),
+          { type: 'output', text: `🤖 AI RESPONSE:\n${reply}` }
+        ]);
+      } catch (err) {
+        setHistory((prev) => [...prev.slice(0, -1), { type: 'error', text: `AI Error: ${err.message}` }]);
+      } finally {
+        setIsAiLoading(false);
+      }
+      return;
+    }
 
     switch (cmd) {
       case 'help':
@@ -42,6 +63,7 @@ export default function InteractiveTerminalModal({ isOpen, onClose }) {
   ocr       - Trigger desktop vision scan
   contact   - Display social links & email
   gif       - View Tenor automation agent status
+  ask [msg] - 💬 Chat with OpenRouter AI live!
   clear     - Clear terminal history`
         });
         break;
@@ -50,8 +72,9 @@ export default function InteractiveTerminalModal({ isOpen, onClose }) {
         newHistory.push({
           type: 'output',
           text: `K R HARI PRAJWAL (Hariprajwal)
+Institution: MIT Manipal — Computer Science Engineering
 Tagline: "Building scalable systems by combining AI, automation, and APIs."
-Specialties: Autonomous LLM Swarms, Astronomical Calculation Engines, Desktop Vision OCR, VTU Computer Science Systems.`
+Specialties: Autonomous LLM Swarms, Astronomical Calculation Engines, Desktop Vision OCR, MIT Manipal CS Engineering.`
         });
         break;
 
@@ -110,7 +133,8 @@ Specialties: Autonomous LLM Swarms, Astronomical Calculation Engines, Desktop Vi
           type: 'output',
           text: `CONNECT WITH HARIPRAJWAL:
   GitHub: https://github.com/Hariprajwal
-  Degree: VTU Computer Science Engineering
+  LinkedIn: https://linkedin.com/in/k-r-hari-prajwal-655373256
+  Institution: MIT Manipal — Computer Science Engineering
   Location: India`
         });
         break;
