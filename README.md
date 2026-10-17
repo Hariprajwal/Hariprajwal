@@ -5,9 +5,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:1a1b26,70:7aa2f7,100:bb9af7&height=230&section=header&text=HARI%20PRAJWAL&fontSize=68&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=%E2%8C%A8%EF%B8%8F%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20EDGE%20AI%20%E2%80%A2%203D%20SIMULATION%20%E2%80%A2%20AUTOMATION&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Hari Prajwal Header" />
   </a>
 
-  <!-- ⚡ LIVE CYCLING REPO RADAR: Every single one of 90 public repos announced one-by-one in an infinite loop -->
-  <a href="https://github.com/Hariprajwal?tab=repositories" title="Click to browse all 90+ repositories">
-    <img src="https://raw.githubusercontent.com/Hariprajwal/Hariprajwal/main/assets/repos-cycler.svg" width="100%" alt="Cycling all 90 repositories in real-time" />
+  <!-- ⚡ LIVE CYBERPUNK TERMINAL TYPING ANIMATOR (Click to view all 90+ Repos) -->
+  <a href="https://github.com/Hariprajwal?tab=repositories" title="Click to view all 90+ Public Repositories">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=false&width=820&height=45&lines=%E2%9A%A1%20SYSTEM%20OVERCLOCKED%20%E2%80%A2%2090%2B%20PUBLIC%20REPOSITORIES%20%5BClick%20to%20Explore%5D;%F0%9F%94%A5%20agentic-awesome-skills%20%E2%80%94%202600%2B%20AI%20Skills%20CLI%20Engine;%F0%9F%8E%AC%20GIF-Automator%20%E2%80%94%20YouTube%20to%20GIPHY%20Automation%20Pipeline;%F0%9F%95%89%EF%B8%8F%20EdgeSanskrit-TTS%20%E2%80%94%20Pure%20CPU%20Offline%20Sanskrit%20Speech%20AI;%F0%9F%8C%90%20MAHE-BLR-CMAPUS-3D%20%E2%80%94%2085-Acre%20Photorealistic%20Digital%20Twin;%F0%9F%A4%96%20whatsapp-custom-agent%20%E2%80%94%20Autonomous%20PC%20Gateway%20%26%20Local%20LLM;%F0%9F%9A%80%20omni-route-guide%20%E2%80%94%201.5B%20Free%20AI%20Tokens%20%2F%20Month;%F0%9F%9B%A1%EF%B8%8F%20PREVENT-PROMPT-INJECTION%20%E2%80%94%20LLM%20Firewall%20%26%20Security%20Shield;%F0%9F%93%88%20auto-trader-bot%20%E2%80%94%20Algorithmic%20Market%20Automation%20Bot;%F0%9F%8E%A5%20Vid2GIF%20%26%20YouTube2GIF%20%E2%80%94%20High-Speed%20Media%20Automation;%F0%9F%94%8D%20sherlock%20%E2%80%94%20Social%20Media%20OSINT%20Hunter;%F0%9F%92%BB%20clean-text-typer%20%E2%80%94%20CleanType%20Turbo%20Windows%20App;%F0%9F%93%82%20Click%20Here%20To%20Explore%20All%2090%2B%20Public%20Repositories%20%E2%86%97" alt="Cyberpunk Typing Terminal" />
   </a>
 
   <br>
@@ -330,4 +330,5 @@ class HariPrajwal:
   <sub>⚡ Crafted with obsession by <b>Hari Prajwal</b> • <i>"Always be building, always be optimizing."</i> 🚀</sub>
 
 </div>
+
 
