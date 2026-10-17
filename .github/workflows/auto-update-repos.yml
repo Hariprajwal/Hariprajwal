@@ -1,0 +1,39 @@
+name: Auto Update Repositories Directory
+
+on:
+  schedule:
+    # Runs everyday at 00:00 UTC (05:30 AM IST)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab anytime
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch Latest Repositories & Update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_repos.py
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: auto-update public repositories directory & count"
+            git push
+          else
+            echo "No new repositories detected. README is up to date."
+          fi
