@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="56" viewBox="0 0 920 56">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#131622" />
+      <stop offset="100%" stop-color="#090d16" />
+    </linearGradient>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7" />
+      <stop offset="50%" stop-color="#bb9af7" />
+      <stop offset="100%" stop-color="#00f5d4" />
+    </linearGradient>
+  </defs>
+  <style>
+    .frame { fill: url(#bg); stroke: url(#border); stroke-width: 1.5; rx: 8px; }
+    .item { opacity: 0; animation: cycle 180s infinite; }
+    .i0 { animation-delay: 0s; }
+    .i1 { animation-delay: 2s; }
+    .i2 { animation-delay: 4s; }
+    .i3 { animation-delay: 6s; }
+    .i4 { animation-delay: 8s; }
+    .i5 { animation-delay: 10s; }
+    .i6 { animation-delay: 12s; }
+    .i7 { animation-delay: 14s; }
+    .i8 { animation-delay: 16s; }
+    .i9 { animation-delay: 18s; }
+    .i10 { animation-delay: 20s; }
+    .i11 { animation-delay: 22s; }
+    .i12 { animation-delay: 24s; }
+    .i13 { animation-delay: 26s; }
+    .i14 { animation-delay: 28s; }
+    .i15 { animation-delay: 30s; }
+    .i16 { animation-delay: 32s; }
+    .i17 { animation-delay: 34s; }
+    .i18 { animation-delay: 36s; }
+    .i19 { animation-delay: 38s; }
+    .i20 { animation-delay: 40s; }
+    .i21 { animation-delay: 42s; }
+    .i22 { animation-delay: 44s; }
+    .i23 { animation-delay: 46s; }
+    .i24 { animation-delay: 48s; }
+    .i25 { animation-delay: 50s; }
+    .i26 { animation-delay: 52s; }
+    .i27 { animation-delay: 54s; }
+    .i28 { animation-delay: 56s; }
+    .i29 { animation-delay: 58s; }
+    .i30 { animation-delay: 60s; }
+    .i31 { animation-delay: 62s; }
+    .i32 { animation-delay: 64s; }
+    .i33 { animation-delay: 66s; }
+    .i34 { animation-delay: 68s; }
+    .i35 { animation-delay: 70s; }
+    .i36 { animation-delay: 72s; }
+    .i37 { animation-delay: 74s; }
+    .i38 { animation-delay: 76s; }
+    .i39 { animation-delay: 78s; }
+    .i40 { animation-delay: 80s; }
+    .i41 { animation-delay: 82s; }
+    .i42 { animation-delay: 84s; }
+    .i43 { animation-delay: 86s; }
+    .i44 { animation-delay: 88s; }
+    .i45 { animation-delay: 90s; }
+    .i46 { animation-delay: 92s; }
+    .i47 { animation-delay: 94s; }
+    .i48 { animation-delay: 96s; }
+    .i49 { animation-delay: 98s; }
+    .i50 { animation-delay: 100s; }
+    .i51 { animation-delay: 102s; }
+    .i52 { animation-delay: 104s; }
+    .i53 { animation-delay: 106s; }
+    .i54 { animation-delay: 108s; }
+    .i55 { animation-delay: 110s; }
+    .i56 { animation-delay: 112s; }
+    .i57 { animation-delay: 114s; }
+    .i58 { animation-delay: 116s; }
+    .i59 { animation-delay: 118s; }
+    .i60 { animation-delay: 120s; }
+    .i61 { animation-delay: 122s; }
+    .i62 { animation-delay: 124s; }
+    .i63 { animation-delay: 126s; }
+    .i64 { animation-delay: 128s; }
+    .i65 { animation-delay: 130s; }
+    .i66 { animation-delay: 132s; }
+    .i67 { animation-delay: 134s; }
+    .i68 { animation-delay: 136s; }
+    .i69 { animation-delay: 138s; }
+    .i70 { animation-delay: 140s; }
+    .i71 { animation-delay: 142s; }
+    .i72 { animation-delay: 144s; }
+    .i73 { animation-delay: 146s; }
+    .i74 { animation-delay: 148s; }
+    .i75 { animation-delay: 150s; }
+    .i76 { animation-delay: 152s; }
+    .i77 { animation-delay: 154s; }
+    .i78 { animation-delay: 156s; }
+    .i79 { animation-delay: 158s; }
+    .i80 { animation-delay: 160s; }
+    .i81 { animation-delay: 162s; }
+    .i82 { animation-delay: 164s; }
+    .i83 { animation-delay: 166s; }
+    .i84 { animation-delay: 168s; }
+    .i85 { animation-delay: 170s; }
+    .i86 { animation-delay: 172s; }
+    .i87 { animation-delay: 174s; }
+    .i88 { animation-delay: 176s; }
+    .i89 { animation-delay: 178s; }
+    @keyframes cycle {
+      0% { opacity: 0; transform: translateY(4px); }
+      0.111% { opacity: 1; transform: translateY(0); }
+      0.972% { opacity: 1; transform: translateY(0); }
+      1.083% { opacity: 0; transform: translateY(-4px); }
+      100% { opacity: 0; }
+    }
+  </style>
+  <rect class="frame" x="2" y="2" width="916" height="52" />
+  <rect x="10" y="12" width="132" height="32" rx="6" ry="6" fill="#161b26" stroke="#7aa2f7" stroke-width="1" />
+  <text x="76" y="33" text-anchor="middle" fill="#00f5d4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace" font-size="12" font-weight="700">⚡ REPO RADAR</text>
+  <g class="item i0">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[01/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Hariprajwal</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Hariprajwal | Software Developer . Expert in AI Systems, A...</tspan>
+    </text>
+  </g>
+  <g class="item i1">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[02/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">agentic-awesome-skills</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">AAS Core is the local, agent-first control plan...</tspan>
+    </text>
+  </g>
+  <g class="item i2">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[03/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">omni-route-guide</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Get 1.5 Billion free AI tokens/month — one local endp...</tspan>
+    </text>
+  </g>
+  <g class="item i3">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[04/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">EdgeSanskrit-TTS</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open source lightweight Sanskrit language model optim...</tspan>
+    </text>
+  </g>
+  <g class="item i4">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[05/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">MAHE-BLR-CMAPUS-3D</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Next-generation photorealistic 3D digital twin &amp...</tspan>
+    </text>
+  </g>
+  <g class="item i5">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[06/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">jyothy-institute-of-technology..</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">All-in-one Jyothy Institute of Techno...</tspan>
+    </text>
+  </g>
+  <g class="item i6">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[07/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">sherlock</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Hunt down social media accounts by username across social net...</tspan>
+    </text>
+  </g>
+  <g class="item i7">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[08/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">whatsapp-custom-agent</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Autonomous WhatsApp AI Agent &amp; PC Remote Con...</tspan>
+    </text>
+  </g>
+  <g class="item i8">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[09/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">softcopy-to-hardcopy</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">An AI-assisted system that converts PDFs and refe...</tspan>
+    </text>
+  </g>
+  <g class="item i9">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[10/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">clean-text-typer</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">CleanType Turbo is a Windows desktop app that cleans ...</tspan>
+    </text>
+  </g>
+  <g class="item i10">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[11/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">open_deep_research</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Research agent  phd and many more </tspan>
+    </text>
+  </g>
+  <g class="item i11">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[12/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">webcam-pnp-watchdog</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Safe Windows PnP watchdog for intermittent USB web...</tspan>
+    </text>
+  </g>
+  <g class="item i12">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[13/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Autonomous-Vehicle-Safety-SIH26</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">This repository holds the codebase for...</tspan>
+    </text>
+  </g>
+  <g class="item i13">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[14/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">freeCodeCamp</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">freeCodeCamp.org's open-source codebase and curriculum. L...</tspan>
+    </text>
+  </g>
+  <g class="item i14">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[15/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">build-your-own-x</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Master programming by recreating your favorite techno...</tspan>
+    </text>
+  </g>
+  <g class="item i15">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[16/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">metadrive</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">MetaDrive: Lightweight driving simulator for everyone</tspan>
+    </text>
+  </g>
+  <g class="item i16">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[17/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">PREVENT-PROMPT-INJECTION</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">A real-time, multi-layered AI Security Firewa...</tspan>
+    </text>
+  </g>
+  <g class="item i17">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[18/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">handy-websites</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">A curated collection of the most useful websites on the...</tspan>
+    </text>
+  </g>
+  <g class="item i18">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[19/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">HPCS-LAB</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Master parallel programming with this complete High Performan...</tspan>
+    </text>
+  </g>
+  <g class="item i19">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[20/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">agency-agents</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">A complete AI agency at your fingertips - From frontend ...</tspan>
+    </text>
+  </g>
+  <g class="item i20">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[21/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">MY--RESUME</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">my resume in simple html and css with js for clickable links </tspan>
+    </text>
+  </g>
+  <g class="item i21">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[22/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">auto-trader-bot</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Automated stock trading bot for NSE/BSE (Indian market...</tspan>
+    </text>
+  </g>
+  <g class="item i22">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[23/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">prompts.chat</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">f.k.a. Awesome ChatGPT Prompts. Share, discover, and coll...</tspan>
+    </text>
+  </g>
+  <g class="item i23">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[24/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">youtube-shorts-to-instagram-re..</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Auto-post YouTube Shorts to Instagram...</tspan>
+    </text>
+  </g>
+  <g class="item i24">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[25/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">openmpi-studio</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">A modern VS Code-style interactive MPI Studio &amp; rea...</tspan>
+    </text>
+  </g>
+  <g class="item i25">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[26/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">OmniRoute</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Never stop coding. Free MIT AI gateway: one endpoint, 290+ p...</tspan>
+    </text>
+  </g>
+  <g class="item i26">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[27/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">universal-chat-agent</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Universal Chat Agent  Lightweight AI-powered cros...</tspan>
+    </text>
+  </g>
+  <g class="item i27">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[28/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">PG-CET-</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">PG-CET study materials Mteck </tspan>
+    </text>
+  </g>
+  <g class="item i28">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[29/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">system_prompts_leaks</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">system prompts from Anthropic - Claude Fable 5, O...</tspan>
+    </text>
+  </g>
+  <g class="item i29">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[30/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">happy-fathers-day</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open source project by Hariprajwal</tspan>
+    </text>
+  </g>
+  <g class="item i30">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[31/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Anonymous-chat-bot-telegram</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Talk to strangers. Stay completely anonymo...</tspan>
+    </text>
+  </g>
+  <g class="item i31">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[32/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Ai-stock-calendar</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Autonomous Indian Stock Catalyst Calendar &amp; AI I...</tspan>
+    </text>
+  </g>
+  <g class="item i32">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[33/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Voice-Frequency-Visualizer-Cym..</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">🧬 Cymatics-Inspired Audio Frequency ...</tspan>
+    </text>
+  </g>
+  <g class="item i33">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[34/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Geneveda-Trial-and-Error</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">GenVeda: AI-powered dermatology platform for ...</tspan>
+    </text>
+  </g>
+  <g class="item i34">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[35/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">youtube-link-fetcher</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Fetch YouTube video links instantly using simple ...</tspan>
+    </text>
+  </g>
+  <g class="item i35">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[36/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">manhwahub</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">A modern, open-source Manhwa reader and tracker built with [...</tspan>
+    </text>
+  </g>
+  <g class="item i36">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[37/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Ekadashi-reminder</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Ekadashi API &amp; Web Calendar 🕉️. An astronomical...</tspan>
+    </text>
+  </g>
+  <g class="item i37">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[38/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">sankashti</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Sankashti Chaturthi &amp; Purnima API 🌙. Accurate Hindu lun...</tspan>
+    </text>
+  </g>
+  <g class="item i38">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[39/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Amavasya-api-</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Amavasya &amp; New Moon REST API 🌑. High-accuracy Hindu...</tspan>
+    </text>
+  </g>
+  <g class="item i39">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[40/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Ekadashi-api</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Ekadashi API to calculate the days of fasting (can be int...</tspan>
+    </text>
+  </g>
+  <g class="item i40">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[41/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Hari-AI</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Hari AI is a lightweight, front-end–based chatbot interface de...</tspan>
+    </text>
+  </g>
+  <g class="item i41">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[42/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">sankashti-api</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">A lightweight, free JSON API providing accurate Sankasht...</tspan>
+    </text>
+  </g>
+  <g class="item i42">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[43/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">AutoGifTagger</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">🏷️ Automated GIF Metadata &amp; Tagging Engine. A speci...</tspan>
+    </text>
+  </g>
+  <g class="item i43">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[44/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Vid2GIF</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">🎬 High-Performance Local Video-to-GIF Converter. A specialize...</tspan>
+    </text>
+  </g>
+  <g class="item i44">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[45/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">telegram-pinned-message-forwar..</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">📌 Automated Telegram Pinned Message ...</tspan>
+    </text>
+  </g>
+  <g class="item i45">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[46/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">TGForwarder</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">TGForwarder is an advanced Telegram bot designed to seamle...</tspan>
+    </text>
+  </g>
+  <g class="item i46">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[47/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">3D-Shatkona-Hexagram-Star-of-D..</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">The 3D Shatkona (षट्कोण) is an intera...</tspan>
+    </text>
+  </g>
+  <g class="item i47">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[48/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">ollama-local-llm-server</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">🏠 Self-Hosted Local LLM Server via Ollama. A ...</tspan>
+    </text>
+  </g>
+  <g class="item i48">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[49/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">AI-GENERATOR-</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">🤖 Full-Stack Generative AI Implementation Hub. A versat...</tspan>
+    </text>
+  </g>
+  <g class="item i49">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[50/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">keyword-crawler-visualizer</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">📊 SEO Intelligence &amp; Keyword Visualiza...</tspan>
+    </text>
+  </g>
+  <g class="item i50">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[51/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Bail-Reckenor</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">⚖️ Legal Decision Support &amp; Bail Estimation Tool. A ...</tspan>
+    </text>
+  </g>
+  <g class="item i51">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[52/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">sih_coalMine</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">⚒️ Smart India Hackathon (SIH) Project: Coal Mine Safety ...</tspan>
+    </text>
+  </g>
+  <g class="item i52">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[53/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Auto_gif_uploader-Giphy</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">📤 Automated GIPHY API Distribution Engine. A ...</tspan>
+    </text>
+  </g>
+  <g class="item i53">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[54/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">YouTube2GIF</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">🎥 The Ultimate YouTube-to-GIF Conversion Engine. A high-p...</tspan>
+    </text>
+  </g>
+  <g class="item i54">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[55/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Collage-website-filesharing</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">🎓 Academic File-Sharing Portal for Jyothy...</tspan>
+    </text>
+  </g>
+  <g class="item i55">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[56/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">AutoNumberTyper</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">⌨️ High-Speed Automated Number Sequencing. A Python ut...</tspan>
+    </text>
+  </g>
+  <g class="item i56">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[57/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">GIF-DELETION</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">🗑️ Automated Media Cleanup Utility. A specialized Python...</tspan>
+    </text>
+  </g>
+  <g class="item i57">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[58/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">CORDINATES-</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">📍 Precision Mouse Coordinate Tracker. A lightweight Pytho...</tspan>
+    </text>
+  </g>
+  <g class="item i58">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[59/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">auto-video-downoloader-pyatogui</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">🤖 Desktop RPA Video Downloader. A Pyt...</tspan>
+    </text>
+  </g>
+  <g class="item i59">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[60/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">GIF-Automator</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">🎬 End-to-End YouTube to GIPHY Automation. A powerful Py...</tspan>
+    </text>
+  </g>
+  <g class="item i60">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[61/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">video-gif-pair-cleaner</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">🧹 Automated Media Directory Optimizer. A high-...</tspan>
+    </text>
+  </g>
+  <g class="item i61">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[62/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">7-lives</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">🕵️‍♂️ Personal Past-Life Discovery Engine. A creative web app...</tspan>
+    </text>
+  </g>
+  <g class="item i62">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[63/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">IdeaForge</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">✨ IdeaForge — an AI-based idea generator that creates projec...</tspan>
+    </text>
+  </g>
+  <g class="item i63">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[64/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Ganesha-manwa</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">A simple first step towards the manawa creation  and aut...</tspan>
+    </text>
+  </g>
+  <g class="item i64">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[65/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">TenorGIFUploader</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">&quot;Python-based Tenor GIF Uploader 🚀. Automate bu...</tspan>
+    </text>
+  </g>
+  <g class="item i65">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[66/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">PROMPT-FOR-STUDYING-VTU-</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">This is a prompt when u paste the prompt u ca...</tspan>
+    </text>
+  </g>
+  <g class="item i66">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[67/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">LiveScreenOCR-screen-reader-</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Google Lens–like desktop OCR tool that ca...</tspan>
+    </text>
+  </g>
+  <g class="item i67">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[68/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Amavasya</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open Source Amavasya &amp; New Moon API. Accurate Hindu Lunar...</tspan>
+    </text>
+  </g>
+  <g class="item i68">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[69/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Alvas-Hackthon-Backend</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open source project by Hariprajwal</tspan>
+    </text>
+  </g>
+  <g class="item i69">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[70/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Alvas-Hackthon-frontend</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open source project by Hariprajwal</tspan>
+    </text>
+  </g>
+  <g class="item i70">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[71/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Bgs-hackthon-frontend</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open source project by Hariprajwal</tspan>
+    </text>
+  </g>
+  <g class="item i71">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[72/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Ishttaa-TechCraft-Pvt-Ltd-Comp..</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open source project by Hariprajwal</tspan>
+    </text>
+  </g>
+  <g class="item i72">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[73/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">hackthon-kssem-new</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open source project by Hariprajwal</tspan>
+    </text>
+  </g>
+  <g class="item i73">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[74/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">hackthon-kssem</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open source project by Hariprajwal</tspan>
+    </text>
+  </g>
+  <g class="item i74">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[75/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Hackathon-idea-generator-</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open source project by Hariprajwal</tspan>
+    </text>
+  </g>
+  <g class="item i75">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[76/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">HariPrajwal-ek</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open source project by Hariprajwal</tspan>
+    </text>
+  </g>
+  <g class="item i76">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[77/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">ekadashi-bot-telegram</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">telegram ekdashi reminder bot </tspan>
+    </text>
+  </g>
+  <g class="item i77">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[78/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">ekdashibot-telegram</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">this is completely new bot to calculate Ekadashi r...</tspan>
+    </text>
+  </g>
+  <g class="item i78">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[79/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">TetherX_vIt</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open source project by Hariprajwal</tspan>
+    </text>
+  </g>
+  <g class="item i79">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[80/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">rmsit-hackthon-</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open source project by Hariprajwal</tspan>
+    </text>
+  </g>
+  <g class="item i80">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[81/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">hackthon-frontend-</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open source project by Hariprajwal</tspan>
+    </text>
+  </g>
+  <g class="item i81">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[82/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">HackALeague_-String_Matching-</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Secured String Matching using Searchable...</tspan>
+    </text>
+  </g>
+  <g class="item i82">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[83/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">astracode</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">hacthon project astra code </tspan>
+    </text>
+  </g>
+  <g class="item i83">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[84/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">SmartCodeHub</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Open source project by Hariprajwal</tspan>
+    </text>
+  </g>
+  <g class="item i84">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[85/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">KrshinaBot</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Do you want to follow  the Vedic way of life in the modern ...</tspan>
+    </text>
+  </g>
+  <g class="item i85">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[86/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">LLM-BESTCODE</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">BEST LLM </tspan>
+    </text>
+  </g>
+  <g class="item i86">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[87/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">Autogifuploader-Giffy</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">this program is designed for auto uploading the ...</tspan>
+    </text>
+  </g>
+  <g class="item i87">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[88/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">stickerbot---telegram-</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">sticker bot working telegram </tspan>
+    </text>
+  </g>
+  <g class="item i88">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[89/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">manga-reader</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Generate a video recap of any manga volume PDf with alter...</tspan>
+    </text>
+  </g>
+  <g class="item i89">
+    <text x="154" y="33">
+      <tspan fill="#bb9af7" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700">[90/90] </tspan>
+      <tspan fill="#7aa2f7" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700">ML_MINIPROJECT</tspan>
+      <tspan fill="#565f89" font-family="sans-serif" font-size="13"> — </tspan>
+      <tspan fill="#c0caf5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">This is a project for predicting whether the student ha...</tspan>
+    </text>
+  </g>
+  <circle cx="896" cy="28" r="4" fill="#00f5d4">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite" />
+  </circle>
+  <text x="884" y="32" text-anchor="end" fill="#7aa2f7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace" font-size="11" font-weight="700">90 REPOS</text>
+</svg>
+

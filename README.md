@@ -5,10 +5,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:1a1b26,70:7aa2f7,100:bb9af7&height=230&section=header&text=HARI%20PRAJWAL&fontSize=68&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=%E2%8C%A8%EF%B8%8F%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20EDGE%20AI%20%E2%80%A2%203D%20SIMULATION%20%E2%80%A2%20AUTOMATION&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Hari Prajwal Header" />
   </a>
 
-  <!-- ⚡ LIVE CYCLING: Every one of 90 repos announced one-by-one in loop -->
-  <!-- Click takes you straight to that repo -->
-  <a href="https://github.com/Hariprajwal?tab=repositories" title="Click to explore all 90+ repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=7AA2F7&center=true&vCenter=true&multiline=false&width=800&height=45&lines=%F0%9F%94%A5+agentic-awesome-skills+%E2%80%94+2600%2B+AI+Skills+CLI;%F0%9F%9A%80+omni-route-guide+%E2%80%94+1.5B+Free+AI+Tokens%2FMonth;%F0%9F%95%89%EF%B8%8F+EdgeSanskrit-TTS+%E2%80%94+CPU-Optimized+Sanskrit+TTS;%F0%9F%8C%90+MAHE-BLR-CMAPUS-3D+%E2%80%94+85-Acre+3D+Digital+Twin;%F0%9F%93%9A+jyothy-institute-of-technology-question-papers;%F0%9F%94%8D+sherlock+%E2%80%94+Social+Media+OSINT+Hunter;%F0%9F%A4%96+whatsapp-custom-agent+%E2%80%94+Autonomous+WhatsApp+AI;%E2%9C%8D%EF%B8%8F+softcopy-to-hardcopy+%E2%80%94+PDF+to+Handwriting+AI;%E2%8C%A8%EF%B8%8F+clean-text-typer+%E2%80%94+CleanType+Turbo;%F0%9F%A7%A0+open_deep_research+%E2%80%94+PhD+Research+Agent;%F0%9F%93%B7+webcam-pnp-watchdog+%E2%80%94+USB+Webcam+Watchdog;%F0%9F%9A%97+Autonomous-Vehicle-Safety-SIH26+%E2%80%94+SIH+2026;%F0%9F%9B%A1%EF%B8%8F+PREVENT-PROMPT-INJECTION+%E2%80%94+LLM+Firewall;%F0%9F%93%88+auto-trader-bot+%E2%80%94+NSE%2FBSE+Auto+Trading;%F0%9F%8E%AC+GIF-Automator+%E2%80%94+YouTube+to+GIPHY+Pipeline;%F0%9F%8E%9E%EF%B8%8F+Vid2GIF+%E2%80%94+High-Performance+GIF+Converter;%F0%9F%8F%AE+AutoGifTagger+%E2%80%94+GIF+Metadata+Tagging+Engine;%F0%9F%93%A1+TGForwarder+%E2%80%94+Telegram+Channel+Forwarder;%F0%9F%8C%99+Ekadashi-reminder+%E2%80%94+Lunar+Ekadashi+Bot;%F0%9F%8C%91+sankashti+%E2%80%94+Sankashti+Chaturthi+Engine;%F0%9F%8C%95+Amavasya-api+%E2%80%94+Amavasya+REST+API;%F0%9F%8C%9F+Ekadashi-api+%E2%80%94+Ekadashi+Date+REST+API;%F0%9F%A4%AF+Hari-AI+%E2%80%94+Personal+AI+Assistant;%F0%9F%8F%97%EF%B8%8F+OmniRoute+%E2%80%94+Multi-Model+AI+Router;%F0%9F%92%AC+universal-chat-agent+%E2%80%94+Cross-Platform+Bot;%F0%9F%8E%A5+YouTube2GIF+%E2%80%94+YouTube+to+GIF+Engine;%F0%9F%94%97+youtube-link-fetcher+%E2%80%94+YT+Link+Scraper;%F0%9F%93%B9+auto-video-downoloader-pyatogui+%E2%80%94+RPA+Downloader;%F0%9F%96%BC%EF%B8%8F+LiveScreenOCR-screen-reader+%E2%80%94+Live+OCR;%F0%9F%93%8A+Ai-stock-calendar+%E2%80%94+AI+Stock+Calendar;%F0%9F%8E%B5+Voice-Frequency-Visualizer+%E2%80%94+Cymatics+Audio+Art;%F0%9F%8C%80+3D-Shatkona-Hexagram-Star-of-David+%E2%80%94+WebGL+3D;%F0%9F%A6%99+ollama-local-llm-server+%E2%80%94+Local+LLM+Server;%F0%9F%A4%96+AI-GENERATOR+%E2%80%94+AI+Image+Generator;%F0%9F%95%B7%EF%B8%8F+keyword-crawler-visualizer+%E2%80%94+SEO+Crawler;%E2%9A%96%EF%B8%8F+Bail-Reckenor+%E2%80%94+Legal+AI+Tool;%E2%9B%8F%EF%B8%8F+sih_coalMine+%E2%80%94+SIH+Coal+Mine+Safety+AI;%F0%9F%94%A2+AutoNumberTyper+%E2%80%94+High-Speed+Number+Typer;%F0%9F%A7%B9+GIF-DELETION+%E2%80%94+Bulk+GIF+Cleanup+Utility;%F0%9F%8E%AF+IdeaForge+%E2%80%94+Hackathon+Idea+Generator;%F0%9F%95%89%EF%B8%8F+KrshinaBot+%E2%80%94+Krishna+AI+Bot;%F0%9F%93%96+manga-reader+%E2%80%94+Manhwa%2FManga+Reader;%F0%9F%8F%86+SmartCodeHub+%E2%80%94+Competitive+Coding+Platform;%F0%9F%94%AC+ML_MINIPROJECT+%E2%80%94+Machine+Learning+Mini+Projects;%F0%9F%8E%9C+AutoGifTagger+%E2%80%94+GIF+Auto-Tagging+Engine;%F0%9F%8E%A0+Autogifuploader-Giffy+%E2%80%94+Giffy+Auto+Uploader;%F0%9F%93%9F+TenorGIFUploader+%E2%80%94+Tenor+API+Bulk+GIF+Upload;%F0%9F%A4%96+stickerbot---telegram+%E2%80%94+Telegram+Sticker+Bot;%F0%9F%8C%BA+Ganesha-manwa+%E2%80%94+Ganesha+Manhwa+Reader;%F0%9F%93%A6+Collage-website-filesharing+%E2%80%94+P2P+File+Share;%F0%9F%8C%8A+Geneveda-Trial-and-Error+%E2%80%94+Experimental+AI;%F0%9F%A7%AA+HackALeague_-String_Matching+%E2%80%94+String+Algorithms;%F0%9F%94%AD+astracode+%E2%80%94+Astra+IDE+Plugin;%F0%9F%92%BC+Ishttaa-TechCraft-Company-Problem+%E2%80%94+Corporate+AI;%F0%9F%8E%93+PG-CET-+%E2%80%94+PG+CET+Study+Assistant;%F0%9F%92%AC+Anonymous-chat-bot-telegram+%E2%80%94+Anonymous+Chat;%F0%9F%8F%9B%EF%B8%8F+openmpi-studio+%E2%80%94+OpenMPI+Execution+Studio;%F0%9F%94%A7+HPCS-LAB+%E2%80%94+HPC+Systems+Lab;%F0%9F%A4%9D+agency-agents+%E2%80%94+Multi-Agent+Framework;%F0%9F%93%84+MY--RESUME+%E2%80%94+AI-Powered+Resume+Builder;%F0%9F%92%AC+prompts.chat+%E2%80%94+Curated+AI+Prompt+Library;%F0%9F%8E%AC+youtube-shorts-to-instagram-reels-automation;%F0%9F%95%B9%EF%B8%8F+manhwahub+%E2%80%94+Manhwa+Reading+Hub;%F0%9F%93%8D+CORDINATES-+%E2%80%94+Geo+Coordinate+Toolkit;%F0%9F%93%B0+handy-websites+%E2%80%94+Curated+Tools+Collection;%F0%9F%94%8F+LLM-BESTCODE+%E2%80%94+LLM+Code+Benchmark;%F0%9F%8F%97%EF%B8%8F+hackthon-kssem-new+%E2%80%94+KSSEM+Hackathon+%232;%F0%9F%92%A1+hackthon-kssem+%E2%80%94+KSSEM+Hackathon+%231;%F0%9F%92%A1+Hackathon-idea-generator+%E2%80%94+Idea+AI;%F0%9F%8F%81+TetherX_vIt+%E2%80%94+Vite+Starter;%F0%9F%94%A5+rmsit-hackthon+%E2%80%94+RMSIT+Hackathon;%F0%9F%8E%93+system_prompts_leaks+%E2%80%94+Leaked+AI+System+Prompts;%F0%9F%8E%AF+video-gif-pair-cleaner+%E2%80%94+Media+Dir+Optimizer;%F0%9F%8E%AE+7-lives+%E2%80%94+7+Lives+Game;%F0%9F%9B%A4%EF%B8%8F+happy-fathers-day+%E2%80%94+Fathers+Day+App;%F0%9F%92%AA+build-your-own-x+%E2%80%94+Build+Anything+From+Scratch;%F0%9F%9A%80+freeCodeCamp+%E2%80%94+Open+Source+Curriculum;%F0%9F%8F%8E%EF%B8%8F+metadrive+%E2%80%94+AV+Simulation+Env;%F0%9F%94%A2+Bail-Reckenor+%E2%80%94+Bail+Calculator+AI;%F0%9F%92%9C+HariPrajwal-ek+%E2%80%94+Personal+Toolkit;%F0%9F%94%84+ekadashi-bot-telegram+%E2%80%94+Ekadashi+Telegram+Bot;%F0%9F%94%84+ekdashibot-telegram+%E2%80%94+New+Ekadashi+Bot;%F0%9F%8F%A1+Amavasya+%E2%80%94+Amavasya+Calendar+Tool;%F0%9F%8C%90+Alvas-Hackthon-Backend+%E2%80%94+Alvas+Hackathon;%F0%9F%8C%90+Bgs-hackthon-frontend+%E2%80%94+BGS+Hackathon;%F0%9F%92%8E+ML_MINIPROJECT+%E2%80%94+ML+Study+Projects;%F0%9F%8C%9F+Hariprajwal+%E2%80%94+Profile+%26+Live+Web+Platform" alt="Cycling all 90 repositories" />
+  <!-- ⚡ LIVE CYCLING REPO RADAR: Every single one of 90 public repos announced one-by-one in an infinite loop -->
+  <a href="https://github.com/Hariprajwal?tab=repositories" title="Click to browse all 90+ repositories">
+    <img src="https://raw.githubusercontent.com/Hariprajwal/Hariprajwal/main/assets/repos-cycler.svg" width="100%" alt="Cycling all 90 repositories in real-time" />
   </a>
 
   <br>
@@ -27,7 +26,7 @@
     <a href="mailto:hariprajwal77@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Hariprajwal&color=7aa2f7&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Visits" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHariprajwal&label=PROFILE%20VIEWS&labelColor=%231a1b26&countColor=%237aa2f7&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
@@ -37,24 +36,24 @@
 ### 🌐 Live Interactive AI Platform & OS
 
 Check out my interactive platform live at **[hariprajwal.vercel.app](https://hariprajwal.vercel.app)**:
-* ⚡ **Interactive Terminal**: Press `Ctrl + K` anywhere on the live site to enter command-line mode.
+* ⚡ **Interactive Terminal**: Press Ctrl + K anywhere on the live site to enter command-line mode.
 * 📈 **Simulation Suite**: Real-time AI stock analysis, screen OCR engines, and interactive telemetry.
 * 🕉️ **Astronomical Computations**: High-precision Ekadashi lunar calendar & planetary engine.
 
 ---
 
-### 🖥️ `HARI_OS v3.8.4` [Telemetry Diagnostic & Boot Log]
+### 🖥️ HARI_OS v3.8.4 [Telemetry Diagnostic & Boot Log]
 
-```text
+`	ext
 ╭─────────────────────────────────────────────────────────────────────────────────────────────╮
 │  NODE     : Hari Prajwal (K R Hari Prajwal)       ARCH     : x86_64 / Edge Heterogeneous    │
 │  IDENTITY : AI Systems Crafter • 3D Sim Dev       LOCATION : Bengaluru, India               │
 │  STATUS   : 🟢 OVERCLOCKED [90+ Repos Built]      COMPILER : Python 3.12 • C++ • TypeScript │
 │  MISSION  : Merging Vedic language preservation, real-world autonomy & edge intelligence.   │
 ╰─────────────────────────────────────────────────────────────────────────────────────────────╯
-```
+`
 
-```python
+`python
 class HariPrajwal:
     def __init__(self):
         self.name = "K R Hari Prajwal"
@@ -68,7 +67,7 @@ class HariPrajwal:
             "Event-driven autonomous agents with WhatsApp, Telegram, and Discord integration"
         ]
         self.quote = "Code shouldn't just run in the cloud—it should conquer the edge."
-```
+`
 
 ---
 
@@ -163,6 +162,142 @@ class HariPrajwal:
     </tr>
   </table>
 </div>
+
+---
+
+### 🗂️ All 90+ Public Repositories (Full Directory)
+
+<details>
+<summary><b>📂 Explore All 90+ Public Repositories (Categorized Interactive Directory)</b></summary><br>
+
+#### 🧠 Autonomous Agents & LLM Architectures (16)
+
+| Repository | Language | Description |
+| :--- | :---: | :--- |
+| [**agentic-awesome-skills**](https://github.com/Hariprajwal/agentic-awesome-skills) | $lang | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. |
+| [**omni-route-guide**](https://github.com/Hariprajwal/omni-route-guide) | $lang | Get 1.5 Billion free AI tokens/month — one local endpoint for Claude, GPT, Gemini and 500+ models |
+| [**whatsapp-custom-agent**](https://github.com/Hariprajwal/whatsapp-custom-agent) | $lang | Autonomous WhatsApp AI Agent & PC Remote Control Gateway powered by Baileys, local Ollama LLMs (Llama 3.2 / Qwen 2.5), and OpenRouter cloud fallback with human anti-ban simulation. |
+| [**open_deep_research**](https://github.com/Hariprajwal/open_deep_research) | $lang | Research agent  phd and many more  |
+| [**PREVENT-PROMPT-INJECTION**](https://github.com/Hariprajwal/PREVENT-PROMPT-INJECTION) | $lang | A real-time, multi-layered AI Security Firewall designed to intercept and neutralize prompt injections, jailbreaks, and network-level threats. Features hybrid LLM routing (Gemini + Local Gemma), deterministic regex guardrails, and live threat observability |
+| [**Hari-AI**](https://github.com/Hariprajwal/Hari-AI) | $lang | Hari AI is a lightweight, front-end–based chatbot interface designed with session isolation, user-specific context handling, and a clean modular architecture. It demonstrates how to build a simple yet scalable AI chat system entirely on the client side, making it ideal for beginners, front-end developers, with AI-powered UI interactions. |
+| [**OmniRoute**](https://github.com/Hariprajwal/OmniRoute) | $lang | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
+| [**universal-chat-agent**](https://github.com/Hariprajwal/universal-chat-agent) | $lang | Universal Chat Agent  Lightweight AI-powered cross-platform messaging agent that automates replies across Telegram, WhatsApp, Discord, and more. |
+| [**ollama-local-llm-server**](https://github.com/Hariprajwal/ollama-local-llm-server) | $lang | 🏠 Self-Hosted Local LLM Server via Ollama. A high-performance inference server for private and secure Large Language Model deployment. Provides an OpenAI-compatible REST API for local AI development, eliminating cloud dependency and protecting data privacy. 🚀 |
+| [**AI-GENERATOR-**](https://github.com/Hariprajwal/AI-GENERATOR-) | $lang | 🤖 Full-Stack Generative AI Implementation Hub. A versatile framework for local and API-based AI generation. Integrates LLMs and diffusion models to provide a unified interface for text, image, and code synthesis. Optimized for Ollama and Code Llama environments. 🚀 |
+| [**agency-agents**](https://github.com/Hariprajwal/agency-agents) | $lang | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [**LLM-BESTCODE**](https://github.com/Hariprajwal/LLM-BESTCODE) | $lang | BEST LLM  |
+| [**prompts.chat**](https://github.com/Hariprajwal/prompts.chat) | $lang | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
+| [**system_prompts_leaks**](https://github.com/Hariprajwal/system_prompts_leaks) | $lang | system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
+| [**Hackathon-idea-generator-**](https://github.com/Hariprajwal/Hackathon-idea-generator-) | $lang | Open-source project |
+| [**IdeaForge**](https://github.com/Hariprajwal/IdeaForge) | $lang | ✨ IdeaForge — an AI-based idea generator that creates project ideas based on your current mood. |
+
+#### 🎙️ Edge Speech, 3D Simulation & Geospatial (6)
+
+| Repository | Language | Description |
+| :--- | :---: | :--- |
+| [**EdgeSanskrit-TTS**](https://github.com/Hariprajwal/EdgeSanskrit-TTS) | $lang | Open source lightweight Sanskrit language model optimized for CPU, edge devices, and offline inference. |
+| [**MAHE-BLR-CMAPUS-3D**](https://github.com/Hariprajwal/MAHE-BLR-CMAPUS-3D) | $lang | Next-generation photorealistic 3D digital twin & AI-guided geospatial simulation of the 85-acre MAHE Bengaluru campus. Built with React Three Fiber, CesiumGS OGC 3D Tiles, Three.js, and TypeScript. |
+| [**Autonomous-Vehicle-Safety-SIH26**](https://github.com/Hariprajwal/Autonomous-Vehicle-Safety-SIH26) | $lang | This repository holds the codebase for Autonomous Vehicle Safety project built using Python and MetaDrive simulator, as part of Smart India Hackathon 2026. |
+| [**metadrive**](https://github.com/Hariprajwal/metadrive) | $lang | MetaDrive: Lightweight driving simulator for everyone |
+| [**Voice-Frequency-Visualizer-Cymatics-Audio-Art-Generator**](https://github.com/Hariprajwal/Voice-Frequency-Visualizer-Cymatics-Audio-Art-Generator) | $lang | 🧬 Cymatics-Inspired Audio Frequency Visualizer. A generative art engine that transforms live audio signals into geometric patterns. Utilizing mathematical mapping and FFT analysis, it visualizes the intersection of sound physics and digital art. 🎨🔊 |
+| [**3D-Shatkona-Hexagram-Star-of-David**](https://github.com/Hariprajwal/3D-Shatkona-Hexagram-Star-of-David) | $lang | The 3D Shatkona (षट्कोण) is an interactive visualization of the ancient six-pointed star, also known as the Hexagram or the Star of David. In Indian sacred geometry, the Shatkona represents the divine union of Shiva (upward triangle) and Shakti (downward triangle), symbolizing cosmic balance. |
+
+#### 🎬 GIF & Media Automation Pipelines (12)
+
+| Repository | Language | Description |
+| :--- | :---: | :--- |
+| [**GIF-Automator**](https://github.com/Hariprajwal/GIF-Automator) | $lang | 🎬 End-to-End YouTube to GIPHY Automation. A powerful Python framework that downloads YouTube videos, converts segments into high-quality GIFs, and automates the upload process to GIPHY. Built with yt-dlp and Giphy API integration for seamless content creation. 🚀 |
+| [**Vid2GIF**](https://github.com/Hariprajwal/Vid2GIF) | $lang | 🎬 High-Performance Local Video-to-GIF Converter. A specialized Python utility for transforming local video files (MP4, MOV, AVI) into optimized GIFs. Features precise frame control, bitrate optimization, and fast local processing for high-fidelity results. 🚀 |
+| [**AutoGifTagger**](https://github.com/Hariprajwal/AutoGifTagger) | $lang | 🏷️ Automated GIF Metadata & Tagging Engine. A specialized Python utility designed to programmatically assign SEO-optimized tags and metadata to GIF assets. Streamlines the organization and discoverability of media libraries for GIPHY, Tenor, and local databases. 🚀 |
+| [**YouTube2GIF**](https://github.com/Hariprajwal/YouTube2GIF) | $lang | 🎥 The Ultimate YouTube-to-GIF Conversion Engine. A high-performance Python utility that transforms YouTube URLs into optimized, high-fidelity GIFs. Powered by yt-dlp and MoviePy for precision clipping and frame-perfect output. 🚀 |
+| [**Autogifuploader-Giffy**](https://github.com/Hariprajwal/Autogifuploader-Giffy) | $lang | this program is designed for auto uploading the gif when u give the file name  |
+| [**TenorGIFUploader**](https://github.com/Hariprajwal/TenorGIFUploader) | $lang | "Python-based Tenor GIF Uploader 🚀. Automate bulk GIF uploads to Tenor via API. Includes authentication handling, tag management, and upload status tracking. |
+| [**Auto_gif_uploader-Giphy**](https://github.com/Hariprajwal/Auto_gif_uploader-Giphy) | $lang | 📤 Automated GIPHY API Distribution Engine. A dedicated Python framework for bulk-uploading and tagging media assets to GIPHY. Features full API integration, metadata management, and automated verification for high-volume content creators. 🚀 |
+| [**GIF-DELETION**](https://github.com/Hariprajwal/GIF-DELETION) | $lang | 🗑️ Automated Media Cleanup Utility. A specialized Python script for bulk-managing and purging GIF assets. Designed to maintain storage efficiency within automated content pipelines by handling large-scale file deletions safely and quickly. 🚀 |
+| [**video-gif-pair-cleaner**](https://github.com/Hariprajwal/video-gif-pair-cleaner) | $lang | 🧹 Automated Media Directory Optimizer. A high-speed Python utility designed to synchronize video and GIF pairs. It identifies and removes orphaned files to maintain a clean, high-performance dataset for content creators and developers. 🚀 |
+| [**auto-video-downoloader-pyatogui**](https://github.com/Hariprajwal/auto-video-downoloader-pyatogui) | $lang | 🤖 Desktop RPA Video Downloader. A Python-based automation tool utilizing PyAutoGUI to simulate user interactions for video downloading. Designed to handle complex web interfaces where traditional scraping tools fall short. 🚀 |
+| [**youtube-shorts-to-instagram-reels-automation**](https://github.com/Hariprajwal/youtube-shorts-to-instagram-reels-automation) | $lang | Auto-post YouTube Shorts to Instagram Reels using Make.com — no code, fully automated pipeline with RapidAPI |
+| [**youtube-link-fetcher**](https://github.com/Hariprajwal/youtube-link-fetcher) | $lang | Fetch YouTube video links instantly using simple search queries. Lightweight Python tool powered by SerpAPI, perfect for quick content discovery and automation projects. |
+
+#### 🕉️ Vedic Computing, Lunar Calendars & Astrometry (9)
+
+| Repository | Language | Description |
+| :--- | :---: | :--- |
+| [**Ekadashi-reminder**](https://github.com/Hariprajwal/Ekadashi-reminder) | $lang | Ekadashi API & Web Calendar 🕉️. An astronomical calculator for accurate Ekadashi fasting dates using Sun-Moon longitude and the Arunodaya rule. Includes Telegram bot and REST API |
+| [**sankashti**](https://github.com/Hariprajwal/sankashti) | $lang | Sankashti Chaturthi & Purnima API 🌙. Accurate Hindu lunar calendar calculator using Sun-Moon angular mathematics. Public REST API with Purnima and Sankashti dates. |
+| [**Amavasya-api-**](https://github.com/Hariprajwal/Amavasya-api-) | $lang | Amavasya & New Moon REST API 🌑. High-accuracy Hindu Panchang calculator using astronomical math. Includes monthly spiritual significance and full year lunar calendar |
+| [**Ekadashi-api**](https://github.com/Hariprajwal/Ekadashi-api) | $lang | Ekadashi API to calculate the days of fasting (can be integrated anywhere) |
+| [**sankashti-api**](https://github.com/Hariprajwal/sankashti-api) | $lang | A lightweight, free JSON API providing accurate Sankashti Chaturthi dates, moonrise timings, and fasting schedules for developers. |
+| [**Amavasya**](https://github.com/Hariprajwal/Amavasya) | $lang | Open Source Amavasya & New Moon API. Accurate Hindu Lunar Calendar calculator using astronomical moon-sun positions. Free REST API for developers. |
+| [**ekadashi-bot-telegram**](https://github.com/Hariprajwal/ekadashi-bot-telegram) | $lang | telegram ekdashi reminder bot  |
+| [**ekdashibot-telegram**](https://github.com/Hariprajwal/ekdashibot-telegram) | $lang | this is completely new bot to calculate Ekadashi reminder in telegram  |
+| [**KrshinaBot**](https://github.com/Hariprajwal/KrshinaBot) | $lang | Do you want to follow  the Vedic way of life in the modern world then use Krishna bot  |
+
+#### ⚡ Automation Tools, RPA & Security Watchdogs (10)
+
+| Repository | Language | Description |
+| :--- | :---: | :--- |
+| [**clean-text-typer**](https://github.com/Hariprajwal/clean-text-typer) | $lang | CleanType Turbo is a Windows desktop app that cleans TXT/pasted text, removes invisible Unicode/control characters, and types the visible text with configurable speed and hotkeys. |
+| [**AutoNumberTyper**](https://github.com/Hariprajwal/AutoNumberTyper) | $lang | ⌨️ High-Speed Automated Number Sequencing. A Python utility designed to automate repetitive numerical data entry and sequence typing. Perfect for stress-testing input fields, automating form fills, and enhancing workflow productivity. 🚀 |
+| [**webcam-pnp-watchdog**](https://github.com/Hariprajwal/webcam-pnp-watchdog) | $lang | Safe Windows PnP watchdog for intermittent USB webcams—captures evidence and performs scoped recovery without registry, BIOS, or driver removal. |
+| [**auto-trader-bot**](https://github.com/Hariprajwal/auto-trader-bot) | $lang | Automated stock trading bot for NSE/BSE (Indian market). Ratio-based capital rotation strategy. 6 brokers supported: Angel One, Zerodha, Upstox, Dhan, Fyers, Groww. Backtesting, Docker, Smart Square-Off. |
+| [**TGForwarder**](https://github.com/Hariprajwal/TGForwarder) | $lang | TGForwarder is an advanced Telegram bot designed to seamlessly share content from one Telegram group to another. Whether it’s images, GIFs, videos, documents, or messages, this bot ensures that your selected content is forwarded efficiently, reliably, and without duplication. |
+| [**telegram-pinned-message-forwarder**](https://github.com/Hariprajwal/telegram-pinned-message-forwarder) | $lang | 📌 Automated Telegram Pinned Message Synchronizer. A specialized bot designed to detect and forward pinned announcements across multiple channels. Perfect for maintaining synchronized "Important Notice" feeds across global community networks. 🚀 |
+| [**LiveScreenOCR-screen-reader-**](https://github.com/Hariprajwal/LiveScreenOCR-screen-reader-) | $lang | Google Lens–like desktop OCR tool that captures any screen region and extracts text live for reading or copying. |
+| [**stickerbot---telegram-**](https://github.com/Hariprajwal/stickerbot---telegram-) | $lang | sticker bot working telegram  |
+| [**Anonymous-chat-bot-telegram**](https://github.com/Hariprajwal/Anonymous-chat-bot-telegram) | $lang | Talk to strangers. Stay completely anonymous. No registration, no names, no traces — just real conversations between real people who don't know each other |
+| [**keyword-crawler-visualizer**](https://github.com/Hariprajwal/keyword-crawler-visualizer) | $lang | 📊 SEO Intelligence & Keyword Visualization Engine. A powerful web crawler that extracts high-intent keywords and maps their density through interactive visualizations. Designed for SEO audits, content strategy, and competitor analysis. 🚀 |
+
+#### 🏆 Hackathons & Real-World Solutions (11)
+
+| Repository | Language | Description |
+| :--- | :---: | :--- |
+| [**sih_coalMine**](https://github.com/Hariprajwal/sih_coalMine) | $lang | ⚒️ Smart India Hackathon (SIH) Project: Coal Mine Safety & Monitoring. An intelligent safety ecosystem designed to monitor environmental hazards and worker health in underground coal mines. Developed to provide real-time alerts and data visualization for accident prevention. 🚀 |
+| [**Bail-Reckenor**](https://github.com/Hariprajwal/Bail-Reckenor) | $lang | ⚖️ Legal Decision Support & Bail Estimation Tool. A sophisticated calculator designed to analyze legal parameters and estimate bail amounts based on statutory guidelines. Built for efficiency and accuracy in judicial and legal workflows. 🚀 |
+| [**Alvas-Hackthon-Backend**](https://github.com/Hariprajwal/Alvas-Hackthon-Backend) | $lang | Open-source project |
+| [**Alvas-Hackthon-frontend**](https://github.com/Hariprajwal/Alvas-Hackthon-frontend) | $lang | Open-source project |
+| [**Bgs-hackthon-frontend**](https://github.com/Hariprajwal/Bgs-hackthon-frontend) | $lang | Open-source project |
+| [**hackthon-kssem-new**](https://github.com/Hariprajwal/hackthon-kssem-new) | $lang | Open-source project |
+| [**hackthon-kssem**](https://github.com/Hariprajwal/hackthon-kssem) | $lang | Open-source project |
+| [**rmsit-hackthon-**](https://github.com/Hariprajwal/rmsit-hackthon-) | $lang | Open-source project |
+| [**hackthon-frontend-**](https://github.com/Hariprajwal/hackthon-frontend-) | $lang | Open-source project |
+| [**HackALeague_-String_Matching-**](https://github.com/Hariprajwal/HackALeague_-String_Matching-) | $lang | Secured String Matching using Searchable Encryption Proposed by: Mr. G. T. Venkateshwar Rao  Participants are required to design and develop a secure system that enables string matching on encrypted data while preserving data confidentiality and privacy. |
+| [**Ishttaa-TechCraft-Pvt-Ltd-Company-Probelm-Statement**](https://github.com/Hariprajwal/Ishttaa-TechCraft-Pvt-Ltd-Company-Probelm-Statement) | $lang | Open-source project |
+
+#### 🛠️ Developer Platforms, Systems & Open Source (26)
+
+| Repository | Language | Description |
+| :--- | :---: | :--- |
+| [**Hariprajwal**](https://github.com/Hariprajwal/Hariprajwal) | $lang | Hariprajwal \| Software Developer . Expert in AI Systems, Automation, and REST APIs. Creator of Sankashti API  |
+| [**jyothy-institute-of-technology-question-papers**](https://github.com/Hariprajwal/jyothy-institute-of-technology-question-papers) | $lang | All-in-one Jyothy Institute of Technology (JIT) academic archive: VTU question papers (PYQs), internal test papers, lab manuals & placement aptitude book. |
+| [**sherlock**](https://github.com/Hariprajwal/sherlock) | $lang | Hunt down social media accounts by username across social networks |
+| [**softcopy-to-hardcopy**](https://github.com/Hariprajwal/softcopy-to-hardcopy) | $lang | An AI-assisted system that converts PDFs and reference material into realistic handwritten-style pages, with printable output and optional pen-plotter support. |
+| [**freeCodeCamp**](https://github.com/Hariprajwal/freeCodeCamp) | $lang | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [**build-your-own-x**](https://github.com/Hariprajwal/build-your-own-x) | $lang | Master programming by recreating your favorite technologies from scratch. |
+| [**handy-websites**](https://github.com/Hariprajwal/handy-websites) | $lang | A curated collection of the most useful websites on the internet. Discover AI tools, productivity apps, learning resources, developer utilities, design tools, free services, hidden gems, and everyday websites that save time, boost efficiency, and make life easier. |
+| [**HPCS-LAB**](https://github.com/Hariprajwal/HPCS-LAB) | $lang | Master parallel programming with this complete High Performance Computing (HPCS) Lab suite! Features highly-optimized C/C++ source code for OpenMP (Shared Memory), MPI (Distributed), and CUDA (GPU) algorithms, plus a custom CLI dashboard. |
+| [**MY--RESUME**](https://github.com/Hariprajwal/MY--RESUME) | $lang | my resume in simple html and css with js for clickable links  |
+| [**openmpi-studio**](https://github.com/Hariprajwal/openmpi-studio) | $lang | A modern VS Code-style interactive MPI Studio & real-time program executor with WSL integration, process rank visualizer, command generator, and top-rated C MPI mappers |
+| [**PG-CET-**](https://github.com/Hariprajwal/PG-CET-) | $lang | PG-CET study materials Mteck  |
+| [**happy-fathers-day**](https://github.com/Hariprajwal/happy-fathers-day) | $lang | Open-source project |
+| [**Ai-stock-calendar**](https://github.com/Hariprajwal/Ai-stock-calendar) | $lang | Autonomous Indian Stock Catalyst Calendar & AI Intelligence Engine. Monitors the NSE, tracks historical metric snapshots, and deploys a key-rotating multi-provider LLM swarm to deliver deep fundamental research and short-term trading forecasts. |
+| [**Geneveda-Trial-and-Error**](https://github.com/Hariprajwal/Geneveda-Trial-and-Error) | $lang | GenVeda: AI-powered dermatology platform for rural clinics featuring real-time skin diagnosis, multilingual RAG assistants (Kannada/English), and blockchain-secured EHR. |
+| [**manhwahub**](https://github.com/Hariprajwal/manhwahub) | $lang | A modern, open-source Manhwa reader and tracker built with [Your Tech Stack]. View latest chapters and manage your reading list." This captures searchers looking for "open source manhwa reader" or "manhwa tracker." |
+| [**Collage-website-filesharing**](https://github.com/Hariprajwal/Collage-website-filesharing) | $lang | 🎓 Academic File-Sharing Portal for Jyothy Institute of Technology (JIT). A centralized repository and web platform designed for JIT students to seamlessly share and access engineering notes, lab manuals, and project resources. Tailored for the JIT-Bangalore campus community. 🚀 |
+| [**CORDINATES-**](https://github.com/Hariprajwal/CORDINATES-) | $lang | 📍 Precision Mouse Coordinate Tracker. A lightweight Python utility for real-time screen coordinate mapping. Designed to streamline the development of PyAutoGUI and RPA automation scripts by providing instant X/Y position feedback. 🚀 |
+| [**7-lives**](https://github.com/Hariprajwal/7-lives) | $lang | 🕵️‍♂️ Personal Past-Life Discovery Engine. A creative web application built to generate and visualize your 7 previous incarnations. Optimized for social sharing and instant engagement. Built with React & Vercel. 🚀 |
+| [**Ganesha-manwa**](https://github.com/Hariprajwal/Ganesha-manwa) | $lang | A simple first step towards the manawa creation  and automation  |
+| [**PROMPT-FOR-STUDYING-VTU-**](https://github.com/Hariprajwal/PROMPT-FOR-STUDYING-VTU-) | $lang | This is a prompt when u paste the prompt u can study effectively  |
+| [**HariPrajwal-ek**](https://github.com/Hariprajwal/HariPrajwal-ek) | $lang | Open-source project |
+| [**TetherX_vIt**](https://github.com/Hariprajwal/TetherX_vIt) | $lang | Open-source project |
+| [**astracode**](https://github.com/Hariprajwal/astracode) | $lang | hacthon project astra code  |
+| [**SmartCodeHub**](https://github.com/Hariprajwal/SmartCodeHub) | $lang | Open-source project |
+| [**manga-reader**](https://github.com/Hariprajwal/manga-reader) | $lang | Generate a video recap of any manga volume PDf with alterantive apis and designs  |
+| [**ML_MINIPROJECT**](https://github.com/Hariprajwal/ML_MINIPROJECT) | $lang | This is a project for predicting whether the student has failed or not using dession tree algorithm  |
+
+</details>
+
+
 
 ---
 
