@@ -2,7 +2,7 @@
 
   <!-- 🌌 3D Cyberpunk Holographic Header Banner -->
   <a href="https://github.com/Hariprajwal?tab=repositories">
-    <img src="https://github.com/Hariprajwal/Hariprajwal/raw/main/assets/banner_arcade.jpg" width="100%" alt="Hari Prajwal 3D Cyberpunk Header" />
+    <img src="https://github.com/Hariprajwal/Hariprajwal/raw/main/assets/banner_spotlight.svg" width="100%" alt="Hari Prajwal 3D Cyberpunk Header" />
   </a>
 
   <!-- ⚡ LIVE CYBERPUNK TERMINAL TYPING ANIMATOR (Click to view all 90+ Repos) -->
@@ -332,6 +332,7 @@ class HariPrajwal:
   <sub>⚡ Crafted with obsession by <b>Hari Prajwal</b> • <i>"Always be building, always be optimizing."</i> 🚀</sub>
 
 </div>
+
 
 
 
