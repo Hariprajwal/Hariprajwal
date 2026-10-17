@@ -1,18 +1,19 @@
 <div align="center">
 
-  <!-- 🌌 Cyberpunk / Holographic Header Banner -->
+  <!-- 🌌 Cyberpunk Waving Header — Click to open all repos -->
   <a href="https://github.com/Hariprajwal?tab=repositories">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:1a1b26,70:7aa2f7,100:bb9af7&height=230&section=header&text=HARI%20PRAJWAL&fontSize=68&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=%E2%8C%A8%EF%B8%8F%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20EDGE%20AI%20%E2%80%A2%203D%20SIMULATION%20%E2%80%A2%20AUTOMATION&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Hari Prajwal Header" />
   </a>
 
-  <!-- ⚡ Dynamic Terminal Typing Subtitle (Clicking takes you straight to all 90+ Repos) -->
-  <a href="https://github.com/Hariprajwal?tab=repositories" title="Click to view all 90+ Public Repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=false&width=750&height=45&lines=%F0%9F%A7%A0+AI+Systems+Architect+%E2%80%A2+90%2B+Public+Repositories+%5BClick+to+Explore%5D;%F0%9F%94%89+Creator+of+EdgeSanskrit+TTS+%5BCPU-Optimized+Speech+AI%5D;%F0%9F%8C%8E+Building+MAHE+Bengaluru+85-Acre+3D+Digital+Twin;%F0%9F%8E%AC+Author+of+GIF-Automator+%5BYouTube+to+GIPHY+Pipeline%5D;%F0%9F%9B%A1%EF%B8%8F+LLM+Security%2C+Prompt-Injection+Guardrails+%26+Firewalls" alt="Dynamic Typing SVG" />
+  <!-- ⚡ LIVE CYCLING: Every one of 90 repos announced one-by-one in loop -->
+  <!-- Click takes you straight to that repo -->
+  <a href="https://github.com/Hariprajwal?tab=repositories" title="Click to explore all 90+ repositories">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=7AA2F7&center=true&vCenter=true&multiline=false&width=800&height=45&lines=%F0%9F%94%A5+agentic-awesome-skills+%E2%80%94+2600%2B+AI+Skills+CLI;%F0%9F%9A%80+omni-route-guide+%E2%80%94+1.5B+Free+AI+Tokens%2FMonth;%F0%9F%95%89%EF%B8%8F+EdgeSanskrit-TTS+%E2%80%94+CPU-Optimized+Sanskrit+TTS;%F0%9F%8C%90+MAHE-BLR-CMAPUS-3D+%E2%80%94+85-Acre+3D+Digital+Twin;%F0%9F%93%9A+jyothy-institute-of-technology-question-papers;%F0%9F%94%8D+sherlock+%E2%80%94+Social+Media+OSINT+Hunter;%F0%9F%A4%96+whatsapp-custom-agent+%E2%80%94+Autonomous+WhatsApp+AI;%E2%9C%8D%EF%B8%8F+softcopy-to-hardcopy+%E2%80%94+PDF+to+Handwriting+AI;%E2%8C%A8%EF%B8%8F+clean-text-typer+%E2%80%94+CleanType+Turbo;%F0%9F%A7%A0+open_deep_research+%E2%80%94+PhD+Research+Agent;%F0%9F%93%B7+webcam-pnp-watchdog+%E2%80%94+USB+Webcam+Watchdog;%F0%9F%9A%97+Autonomous-Vehicle-Safety-SIH26+%E2%80%94+SIH+2026;%F0%9F%9B%A1%EF%B8%8F+PREVENT-PROMPT-INJECTION+%E2%80%94+LLM+Firewall;%F0%9F%93%88+auto-trader-bot+%E2%80%94+NSE%2FBSE+Auto+Trading;%F0%9F%8E%AC+GIF-Automator+%E2%80%94+YouTube+to+GIPHY+Pipeline;%F0%9F%8E%9E%EF%B8%8F+Vid2GIF+%E2%80%94+High-Performance+GIF+Converter;%F0%9F%8F%AE+AutoGifTagger+%E2%80%94+GIF+Metadata+Tagging+Engine;%F0%9F%93%A1+TGForwarder+%E2%80%94+Telegram+Channel+Forwarder;%F0%9F%8C%99+Ekadashi-reminder+%E2%80%94+Lunar+Ekadashi+Bot;%F0%9F%8C%91+sankashti+%E2%80%94+Sankashti+Chaturthi+Engine;%F0%9F%8C%95+Amavasya-api+%E2%80%94+Amavasya+REST+API;%F0%9F%8C%9F+Ekadashi-api+%E2%80%94+Ekadashi+Date+REST+API;%F0%9F%A4%AF+Hari-AI+%E2%80%94+Personal+AI+Assistant;%F0%9F%8F%97%EF%B8%8F+OmniRoute+%E2%80%94+Multi-Model+AI+Router;%F0%9F%92%AC+universal-chat-agent+%E2%80%94+Cross-Platform+Bot;%F0%9F%8E%A5+YouTube2GIF+%E2%80%94+YouTube+to+GIF+Engine;%F0%9F%94%97+youtube-link-fetcher+%E2%80%94+YT+Link+Scraper;%F0%9F%93%B9+auto-video-downoloader-pyatogui+%E2%80%94+RPA+Downloader;%F0%9F%96%BC%EF%B8%8F+LiveScreenOCR-screen-reader+%E2%80%94+Live+OCR;%F0%9F%93%8A+Ai-stock-calendar+%E2%80%94+AI+Stock+Calendar;%F0%9F%8E%B5+Voice-Frequency-Visualizer+%E2%80%94+Cymatics+Audio+Art;%F0%9F%8C%80+3D-Shatkona-Hexagram-Star-of-David+%E2%80%94+WebGL+3D;%F0%9F%A6%99+ollama-local-llm-server+%E2%80%94+Local+LLM+Server;%F0%9F%A4%96+AI-GENERATOR+%E2%80%94+AI+Image+Generator;%F0%9F%95%B7%EF%B8%8F+keyword-crawler-visualizer+%E2%80%94+SEO+Crawler;%E2%9A%96%EF%B8%8F+Bail-Reckenor+%E2%80%94+Legal+AI+Tool;%E2%9B%8F%EF%B8%8F+sih_coalMine+%E2%80%94+SIH+Coal+Mine+Safety+AI;%F0%9F%94%A2+AutoNumberTyper+%E2%80%94+High-Speed+Number+Typer;%F0%9F%A7%B9+GIF-DELETION+%E2%80%94+Bulk+GIF+Cleanup+Utility;%F0%9F%8E%AF+IdeaForge+%E2%80%94+Hackathon+Idea+Generator;%F0%9F%95%89%EF%B8%8F+KrshinaBot+%E2%80%94+Krishna+AI+Bot;%F0%9F%93%96+manga-reader+%E2%80%94+Manhwa%2FManga+Reader;%F0%9F%8F%86+SmartCodeHub+%E2%80%94+Competitive+Coding+Platform;%F0%9F%94%AC+ML_MINIPROJECT+%E2%80%94+Machine+Learning+Mini+Projects;%F0%9F%8E%9C+AutoGifTagger+%E2%80%94+GIF+Auto-Tagging+Engine;%F0%9F%8E%A0+Autogifuploader-Giffy+%E2%80%94+Giffy+Auto+Uploader;%F0%9F%93%9F+TenorGIFUploader+%E2%80%94+Tenor+API+Bulk+GIF+Upload;%F0%9F%A4%96+stickerbot---telegram+%E2%80%94+Telegram+Sticker+Bot;%F0%9F%8C%BA+Ganesha-manwa+%E2%80%94+Ganesha+Manhwa+Reader;%F0%9F%93%A6+Collage-website-filesharing+%E2%80%94+P2P+File+Share;%F0%9F%8C%8A+Geneveda-Trial-and-Error+%E2%80%94+Experimental+AI;%F0%9F%A7%AA+HackALeague_-String_Matching+%E2%80%94+String+Algorithms;%F0%9F%94%AD+astracode+%E2%80%94+Astra+IDE+Plugin;%F0%9F%92%BC+Ishttaa-TechCraft-Company-Problem+%E2%80%94+Corporate+AI;%F0%9F%8E%93+PG-CET-+%E2%80%94+PG+CET+Study+Assistant;%F0%9F%92%AC+Anonymous-chat-bot-telegram+%E2%80%94+Anonymous+Chat;%F0%9F%8F%9B%EF%B8%8F+openmpi-studio+%E2%80%94+OpenMPI+Execution+Studio;%F0%9F%94%A7+HPCS-LAB+%E2%80%94+HPC+Systems+Lab;%F0%9F%A4%9D+agency-agents+%E2%80%94+Multi-Agent+Framework;%F0%9F%93%84+MY--RESUME+%E2%80%94+AI-Powered+Resume+Builder;%F0%9F%92%AC+prompts.chat+%E2%80%94+Curated+AI+Prompt+Library;%F0%9F%8E%AC+youtube-shorts-to-instagram-reels-automation;%F0%9F%95%B9%EF%B8%8F+manhwahub+%E2%80%94+Manhwa+Reading+Hub;%F0%9F%93%8D+CORDINATES-+%E2%80%94+Geo+Coordinate+Toolkit;%F0%9F%93%B0+handy-websites+%E2%80%94+Curated+Tools+Collection;%F0%9F%94%8F+LLM-BESTCODE+%E2%80%94+LLM+Code+Benchmark;%F0%9F%8F%97%EF%B8%8F+hackthon-kssem-new+%E2%80%94+KSSEM+Hackathon+%232;%F0%9F%92%A1+hackthon-kssem+%E2%80%94+KSSEM+Hackathon+%231;%F0%9F%92%A1+Hackathon-idea-generator+%E2%80%94+Idea+AI;%F0%9F%8F%81+TetherX_vIt+%E2%80%94+Vite+Starter;%F0%9F%94%A5+rmsit-hackthon+%E2%80%94+RMSIT+Hackathon;%F0%9F%8E%93+system_prompts_leaks+%E2%80%94+Leaked+AI+System+Prompts;%F0%9F%8E%AF+video-gif-pair-cleaner+%E2%80%94+Media+Dir+Optimizer;%F0%9F%8E%AE+7-lives+%E2%80%94+7+Lives+Game;%F0%9F%9B%A4%EF%B8%8F+happy-fathers-day+%E2%80%94+Fathers+Day+App;%F0%9F%92%AA+build-your-own-x+%E2%80%94+Build+Anything+From+Scratch;%F0%9F%9A%80+freeCodeCamp+%E2%80%94+Open+Source+Curriculum;%F0%9F%8F%8E%EF%B8%8F+metadrive+%E2%80%94+AV+Simulation+Env;%F0%9F%94%A2+Bail-Reckenor+%E2%80%94+Bail+Calculator+AI;%F0%9F%92%9C+HariPrajwal-ek+%E2%80%94+Personal+Toolkit;%F0%9F%94%84+ekadashi-bot-telegram+%E2%80%94+Ekadashi+Telegram+Bot;%F0%9F%94%84+ekdashibot-telegram+%E2%80%94+New+Ekadashi+Bot;%F0%9F%8F%A1+Amavasya+%E2%80%94+Amavasya+Calendar+Tool;%F0%9F%8C%90+Alvas-Hackthon-Backend+%E2%80%94+Alvas+Hackathon;%F0%9F%8C%90+Bgs-hackthon-frontend+%E2%80%94+BGS+Hackathon;%F0%9F%92%8E+ML_MINIPROJECT+%E2%80%94+ML+Study+Projects;%F0%9F%8C%9F+Hariprajwal+%E2%80%94+Profile+%26+Live+Web+Platform" alt="Cycling all 90 repositories" />
   </a>
 
   <br>
 
-  <!-- 🚀 Social & Telemetry Badges (With Direct 90+ Repos Button) -->
+  <!-- 🚀 Social & Telemetry Badges -->
   <p align="center">
     <a href="https://github.com/Hariprajwal?tab=repositories">
       <img src="https://img.shields.io/badge/REPOSITORIES-90%2B%20PUBLIC%20PROJECTS-00f5d4?style=for-the-badge&logo=github&logoColor=black" alt="90+ Public Repositories" />
@@ -57,7 +58,7 @@ Check out my interactive platform live at **[hariprajwal.vercel.app](https://har
 class HariPrajwal:
     def __init__(self):
         self.name = "K R Hari Prajwal"
-        self.public_repositories = "90+ open-source codebases"
+        self.public_repositories = 90          # and counting...
         self.core_domains = ["Edge AI", "Speech Synthesis", "3D Geospatial Twins", "LLM Security", "Media Automation"]
         self.active_obsessions = [
             "Running high-fidelity Sanskrit TTS on ultra-low-power CPU edge devices",
@@ -67,9 +68,6 @@ class HariPrajwal:
             "Event-driven autonomous agents with WhatsApp, Telegram, and Discord integration"
         ]
         self.quote = "Code shouldn't just run in the cloud—it should conquer the edge."
-
-    def get_status(self):
-        return "Always shipping, benchmarking, and turning abstract math into production reality."
 ```
 
 ---
@@ -117,30 +115,14 @@ class HariPrajwal:
   </table>
 </div>
 
-<details open>
-<summary><b>🔥 Explore More Noteworthy Creations</b></summary>
-<br>
-
-* 🚗 **Autonomous Vehicle Safety (SIH 2026):** Smart India Hackathon project implementing predictive crash avoidance and trajectory safety using MetaDrive simulator.
-* 🛡️ **Prevent Prompt Injection:** Real-time semantic firewall filtering malicious prompt injections and jailbreaks before reaching LLM context.
-* ✍️ **Softcopy-to-Hardcopy AI:** Translates digital PDFs and technical notes into authentic human handwriting with optional pen-plotter G-code output.
-* 🌌 **Ekadashi Astronomical Date Engine:** High-precision celestial engine calculating exact lunar tithi transitions and sunrise alignments.
-* 🚀 **Omni-Route AI Router:** Unified multi-model routing layer distributing requests across Claude, GPT-4, and Gemini with intelligent fallback.
-* ⌨️ **CleanType Turbo:** Low-level Windows utility stripping rogue Unicode and invisible control characters with configurable speed typing simulation.
-
-</details>
-
 ---
 
 ### ⚡ Technical Battle Station & Weaponry
 
 <div align="center">
-
-  <!-- Glow Tech Stack Icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,bash,react,threejs,tailwind,html,css,fastapi,django,nodejs,postgres,mongodb,redis,docker,linux,git,github,postman,vscode&perline=11" alt="Arsenal" />
   </a>
-
 </div>
 
 <br>
@@ -162,13 +144,11 @@ class HariPrajwal:
   <table border="0">
     <tr>
       <td>
-        <!-- Live GitHub Stats with Total Stars & Commits -->
         <a href="https://github.com/Hariprajwal?tab=repositories">
           <img src="https://github-readme-stats.vercel.app/api?username=Hariprajwal&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=0d1117&rank_icon=github" alt="Hari's GitHub Stats" height="175" />
         </a>
       </td>
       <td>
-        <!-- Live Streak Counter -->
         <a href="https://github.com/Hariprajwal?tab=repositories">
           <img src="https://streak-stats.demolab.com/?user=Hariprajwal&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&background=0d1117" alt="Hari's GitHub Streak" height="175" />
         </a>
@@ -176,7 +156,6 @@ class HariPrajwal:
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <!-- Compact Language Breakdown -->
         <a href="https://github.com/Hariprajwal?tab=repositories">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprajwal&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=0d1117" alt="Top Languages" width="400" />
         </a>
@@ -184,24 +163,6 @@ class HariPrajwal:
     </tr>
   </table>
 </div>
-
----
-
-### 🎮 Terminal CLI Quick-Dial
-
-```bash
-$ npx hari-prajwal --interactive
-```
-
-```text
-  [1] Explore All 90+ Public Repos  ──> https://github.com/Hariprajwal?tab=repositories
-  [2] View 3D MAHE Campus Twin      ──> https://github.com/Hariprajwal/MAHE-BLR-CMAPUS-3D
-  [3] Run EdgeSanskrit TTS Demo     ──> https://github.com/Hariprajwal/EdgeSanskrit-TTS
-  [4] Run GIF-Automator Pipeline    ──> https://github.com/Hariprajwal/GIF-Automator
-  [5] Inspect WhatsApp AI PC Agent  ──> https://github.com/Hariprajwal/whatsapp-custom-agent
-  [6] Connect with Hari on LinkedIn ──> https://www.linkedin.com/in/k-r-hari-prajwal-655373256/
-  [7] Direct Mail Transmission      ──> mailto:hariprajwal77@gmail.com
-```
 
 ---
 
