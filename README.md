@@ -26,7 +26,7 @@
     <a href="mailto:hariprajwal77@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHariprajwal&label=PROFILE%20VIEWS&labelColor=%231a1b26&countColor=%237aa2f7&style=for-the-badge" alt="Profile Views" />
+    <a href="https://github.com/Hariprajwal?tab=repositories"><img src="https://img.shields.io/badge/TELEMETRY-90%2B%20PROJECTS%20ACTIVE-bb9af7?style=for-the-badge&logo=git&logoColor=white" alt="Telemetry Status" /></a>
   </p>
 
 </div>
@@ -330,3 +330,4 @@ class HariPrajwal:
   <sub>⚡ Crafted with obsession by <b>Hari Prajwal</b> • <i>"Always be building, always be optimizing."</i> 🚀</sub>
 
 </div>
+
