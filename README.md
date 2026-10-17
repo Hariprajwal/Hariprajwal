@@ -1,22 +1,24 @@
 <div align="center">
 
   <!-- 🌌 Cyberpunk / Holographic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:1a1b26,70:7aa2f7,100:bb9af7&height=230&section=header&text=HARI%20PRAJWAL&fontSize=68&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=%E2%8C%A8%EF%B8%8F%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20EDGE%20AI%20%E2%80%A2%203D%20SIMULATION%20%E2%80%A2%20AUTOMATION&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Hari Prajwal Header" />
+  <a href="https://github.com/Hariprajwal?tab=repositories">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:1a1b26,70:7aa2f7,100:bb9af7&height=230&section=header&text=HARI%20PRAJWAL&fontSize=68&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=%E2%8C%A8%EF%B8%8F%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20EDGE%20AI%20%E2%80%A2%203D%20SIMULATION%20%E2%80%A2%20AUTOMATION&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Hari Prajwal Header" />
+  </a>
 
-  <!-- ⚡ Dynamic Terminal Typing Subtitle -->
-  <a href="https://github.com/Hariprajwal">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=false&width=750&height=45&lines=%F0%9F%A7%A0+AI+Systems+Architect+%E2%80%A2+90%2B+Public+Repositories+Shipped;%F0%9F%94%89+Creator+of+EdgeSanskrit+TTS+%5BCPU-Optimized+Speech+AI%5D;%F0%9F%8C%8E+Building+MAHE+Bengaluru+85-Acre+3D+Digital+Twin;%F0%9F%9B%A1%EF%B8%8F+LLM+Security%2C+Prompt-Injection+Guardrails+%26+Firewalls;%F0%9F%9A%97+Autonomous+Vehicle+Safety+AI+%5BSmart+India+Hackathon+2026%5D" alt="Dynamic Typing SVG" />
+  <!-- ⚡ Dynamic Terminal Typing Subtitle (Clicking takes you straight to all 90+ Repos) -->
+  <a href="https://github.com/Hariprajwal?tab=repositories" title="Click to view all 90+ Public Repositories">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=false&width=750&height=45&lines=%F0%9F%A7%A0+AI+Systems+Architect+%E2%80%A2+90%2B+Public+Repositories+%5BClick+to+Explore%5D;%F0%9F%94%89+Creator+of+EdgeSanskrit+TTS+%5BCPU-Optimized+Speech+AI%5D;%F0%9F%8C%8E+Building+MAHE+Bengaluru+85-Acre+3D+Digital+Twin;%F0%9F%8E%AC+Author+of+GIF-Automator+%5BYouTube+to+GIPHY+Pipeline%5D;%F0%9F%9B%A1%EF%B8%8F+LLM+Security%2C+Prompt-Injection+Guardrails+%26+Firewalls" alt="Dynamic Typing SVG" />
   </a>
 
   <br>
 
-  <!-- 🚀 Social & Telemetry Badges -->
+  <!-- 🚀 Social & Telemetry Badges (With Direct 90+ Repos Button) -->
   <p align="center">
-    <a href="https://hariprajwal.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/LIVE%20PLATFORM-hariprajwal.vercel.app-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Website" />
+    <a href="https://github.com/Hariprajwal?tab=repositories">
+      <img src="https://img.shields.io/badge/REPOSITORIES-90%2B%20PUBLIC%20PROJECTS-00f5d4?style=for-the-badge&logo=github&logoColor=black" alt="90+ Public Repositories" />
     </a>
-    <a href="https://github.com/Hariprajwal">
-      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://hariprajwal.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/LIVE%20PLATFORM-hariprajwal.vercel.app-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" />
     </a>
     <a href="https://www.linkedin.com/in/k-r-hari-prajwal-655373256/">
       <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -55,10 +57,12 @@ Check out my interactive platform live at **[hariprajwal.vercel.app](https://har
 class HariPrajwal:
     def __init__(self):
         self.name = "K R Hari Prajwal"
-        self.core_domains = ["Edge AI", "Speech Synthesis", "3D Geospatial Twins", "LLM Security"]
+        self.public_repositories = "90+ open-source codebases"
+        self.core_domains = ["Edge AI", "Speech Synthesis", "3D Geospatial Twins", "LLM Security", "Media Automation"]
         self.active_obsessions = [
             "Running high-fidelity Sanskrit TTS on ultra-low-power CPU edge devices",
             "Designing photorealistic 3D digital twins of university campuses via Cesium & Three.js",
+            "End-to-end automated media & GIF publishing pipelines (GIF-Automator)",
             "Hardening LLMs against prompt injection & adversarial jailbreak payloads",
             "Event-driven autonomous agents with WhatsApp, Telegram, and Discord integration"
         ]
@@ -102,21 +106,22 @@ class HariPrajwal:
         <p><i>Autonomous PC remote control & WhatsApp agent driven by local Ollama LLMs with human-like anti-ban safeguards.</i></p>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/Hariprajwal/Autonomous-Vehicle-Safety-SIH26">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hariprajwal&repo=Autonomous-Vehicle-Safety-SIH26&theme=tokyonight&border_color=7aa2f7&title_color=7aa2f7&icon_color=bb9af7&show_owner=false" width="100%" alt="Autonomous Vehicle Safety" />
+        <a href="https://github.com/Hariprajwal/GIF-Automator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hariprajwal&repo=GIF-Automator&theme=tokyonight&border_color=7aa2f7&title_color=7aa2f7&icon_color=bb9af7&show_owner=false" width="100%" alt="GIF-Automator" />
         </a>
         <br>
-        <b>🚗 Autonomous Vehicle Safety (SIH 2026)</b>
-        <p><i>Smart India Hackathon project implementing predictive crash avoidance and trajectory safety using MetaDrive simulator.</i></p>
+        <b>🎬 GIF-Automator</b>
+        <p><i>End-to-End automated YouTube-to-GIPHY pipeline with yt-dlp, segment conversion, and automated upload API integration.</i></p>
       </td>
     </tr>
   </table>
 </div>
 
-<details>
+<details open>
 <summary><b>🔥 Explore More Noteworthy Creations</b></summary>
 <br>
 
+* 🚗 **Autonomous Vehicle Safety (SIH 2026):** Smart India Hackathon project implementing predictive crash avoidance and trajectory safety using MetaDrive simulator.
 * 🛡️ **Prevent Prompt Injection:** Real-time semantic firewall filtering malicious prompt injections and jailbreaks before reaching LLM context.
 * ✍️ **Softcopy-to-Hardcopy AI:** Translates digital PDFs and technical notes into authentic human handwriting with optional pen-plotter G-code output.
 * 🌌 **Ekadashi Astronomical Date Engine:** High-precision celestial engine calculating exact lunar tithi transitions and sunrise alignments.
@@ -158,13 +163,13 @@ class HariPrajwal:
     <tr>
       <td>
         <!-- Live GitHub Stats with Total Stars & Commits -->
-        <a href="https://github.com/Hariprajwal">
+        <a href="https://github.com/Hariprajwal?tab=repositories">
           <img src="https://github-readme-stats.vercel.app/api?username=Hariprajwal&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=0d1117&rank_icon=github" alt="Hari's GitHub Stats" height="175" />
         </a>
       </td>
       <td>
         <!-- Live Streak Counter -->
-        <a href="https://github.com/Hariprajwal">
+        <a href="https://github.com/Hariprajwal?tab=repositories">
           <img src="https://streak-stats.demolab.com/?user=Hariprajwal&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&background=0d1117" alt="Hari's GitHub Streak" height="175" />
         </a>
       </td>
@@ -172,7 +177,9 @@ class HariPrajwal:
     <tr>
       <td colspan="2" align="center">
         <!-- Compact Language Breakdown -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprajwal&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=0d1117" alt="Top Languages" width="400" />
+        <a href="https://github.com/Hariprajwal?tab=repositories">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprajwal&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=0d1117" alt="Top Languages" width="400" />
+        </a>
       </td>
     </tr>
   </table>
@@ -187,12 +194,13 @@ $ npx hari-prajwal --interactive
 ```
 
 ```text
-  [1] View Live Web Platform & OS   ──> https://hariprajwal.vercel.app
+  [1] Explore All 90+ Public Repos  ──> https://github.com/Hariprajwal?tab=repositories
   [2] View 3D MAHE Campus Twin      ──> https://github.com/Hariprajwal/MAHE-BLR-CMAPUS-3D
   [3] Run EdgeSanskrit TTS Demo     ──> https://github.com/Hariprajwal/EdgeSanskrit-TTS
-  [4] Inspect WhatsApp AI PC Agent  ──> https://github.com/Hariprajwal/whatsapp-custom-agent
-  [5] Connect with Hari on LinkedIn ──> https://www.linkedin.com/in/k-r-hari-prajwal-655373256/
-  [6] Direct Mail Transmission      ──> mailto:hariprajwal77@gmail.com
+  [4] Run GIF-Automator Pipeline    ──> https://github.com/Hariprajwal/GIF-Automator
+  [5] Inspect WhatsApp AI PC Agent  ──> https://github.com/Hariprajwal/whatsapp-custom-agent
+  [6] Connect with Hari on LinkedIn ──> https://www.linkedin.com/in/k-r-hari-prajwal-655373256/
+  [7] Direct Mail Transmission      ──> mailto:hariprajwal77@gmail.com
 ```
 
 ---
@@ -202,11 +210,15 @@ $ npx hari-prajwal --interactive
   ### 📡 Let's Build Something Revolutionary
 
   <p>
-    Whether it's discussing <b>Edge AI speech architectures, 3D geospatial rendering, LLM security firewalls, or hackathon collaboration</b> — my inbox is always open.
+    Whether it's discussing <b>Edge AI speech architectures, 3D geospatial rendering, media automation pipelines, or hackathon collaboration</b> — my inbox is always open.
   </p>
 
+  <a href="https://github.com/Hariprajwal?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse%20All%2090%2B%20Repos-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="Browse 90+ Repos" />
+  </a>
+  &nbsp;
   <a href="https://hariprajwal.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Platform-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Platform" />
+    <img src="https://img.shields.io/badge/Live%20Platform-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/k-r-hari-prajwal-655373256/">
@@ -215,10 +227,6 @@ $ npx hari-prajwal --interactive
   &nbsp;
   <a href="mailto:hariprajwal77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Hariprajwal?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%2090%2B%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repos" />
   </a>
 
   <br><br>
