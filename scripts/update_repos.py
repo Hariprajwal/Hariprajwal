@@ -2,6 +2,7 @@ import os
 import re
 import json
 import urllib.request
+import urllib.parse
 
 USERNAME = "Hariprajwal"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -118,7 +119,6 @@ def update_readme():
     if table_pattern.search(content):
         content = table_pattern.sub(matrix_md, content)
     else:
-        # If markers don't exist yet, replace <details>...</details> in repos section
         details_pattern = re.compile(r"<details>.*?<\/details>", re.DOTALL)
         content = details_pattern.sub(matrix_md, content)
 
@@ -149,10 +149,27 @@ def update_readme():
         content
     )
 
+    # 3. Update the Typing SVG URL with all 90+ individual repos
+    clean_lines = [f"⚡ LIVE RADAR: {total}+ PUBLIC REPOSITORIES [CLICK TO BROWSE]"]
+    for i, r in enumerate(repos):
+        r_name = r.get("name", "")
+        if r_name != USERNAME:
+            clean_lines.append(f"[{i+1:02d}/{total}] {r_name}")
+    clean_lines.append(f"📂 Click Here To Explore All {total}+ Repositories ↗")
+
+    encoded_lines = ";".join([urllib.parse.quote(line) for line in clean_lines])
+    typing_url = f"https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1800&pause=550&color=7AA2F7&center=true&vCenter=true&multiline=false&width=840&height=45&lines={encoded_lines}"
+
+    content = re.sub(
+        r'https://readme-typing-svg\.demolab\.com\?[^"]+',
+        typing_url,
+        content
+    )
+
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(content)
 
-    print("README.md successfully updated!")
+    print("README.md successfully updated with all repos & typing animator!")
 
 if __name__ == "__main__":
     update_readme()
