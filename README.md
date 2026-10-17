@@ -1,8 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
-  <!-- 🌌 Cyberpunk Waving Header — Click to open all repos -->
+  <!-- 🌌 3D Cyberpunk Holographic Header Banner -->
   <a href="https://github.com/Hariprajwal?tab=repositories">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:1a1b26,70:7aa2f7,100:bb9af7&height=230&section=header&text=HARI%20PRAJWAL&fontSize=68&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=%E2%8C%A8%EF%B8%8F%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20EDGE%20AI%20%E2%80%A2%203D%20SIMULATION%20%E2%80%A2%20AUTOMATION&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Hari Prajwal Header" />
+    <img src="https://github.com/Hariprajwal/Hariprajwal/raw/main/assets/banner_3d.jpg" width="100%" alt="Hari Prajwal 3D Cyberpunk Header" />
   </a>
 
   <!-- ⚡ LIVE CYBERPUNK TERMINAL TYPING ANIMATOR (Click to view all 90+ Repos) -->
