@@ -1,405 +1,228 @@
-## **Hi, I'm Hari Prajwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">**
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hari%20Prajwal&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Hari Prajwal waving header" />
-</p>
+  <!-- 🌌 Cyberpunk / Holographic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,40:1a1b26,70:7aa2f7,100:bb9af7&height=230&section=header&text=HARI%20PRAJWAL&fontSize=68&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=%E2%8C%A8%EF%B8%8F%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20EDGE%20AI%20%E2%80%A2%203D%20SIMULATION%20%E2%80%A2%20AUTOMATION&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Hari Prajwal Header" />
 
-<h3 align="center">
-  🚀 AI • Automation • Backend • Open Source
-</h3>
-<p align="center">
+  <!-- ⚡ Dynamic Terminal Typing Subtitle -->
   <a href="https://github.com/Hariprajwal">
-    <img src="https://img.shields.io/badge/GitHub-Hari%20Prajwal-181717?style=for-the-badge&logo=github" alt="GitHub profile">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=false&width=750&height=45&lines=%F0%9F%A7%A0+AI+Systems+Architect+%E2%80%A2+90%2B+Public+Repositories+Shipped;%F0%9F%94%89+Creator+of+EdgeSanskrit+TTS+%5BCPU-Optimized+Speech+AI%5D;%F0%9F%8C%8E+Building+MAHE+Bengaluru+85-Acre+3D+Digital+Twin;%F0%9F%9B%A1%EF%B8%8F+LLM+Security%2C+Prompt-Injection+Guardrails+%26+Firewalls;%F0%9F%9A%97+Autonomous+Vehicle+Safety+AI+%5BSmart+India+Hackathon+2026%5D" alt="Dynamic Typing SVG" />
   </a>
+
+  <br>
+
+  <!-- 🚀 Social & Telemetry Badges -->
+  <p align="center">
+    <a href="https://hariprajwal.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/LIVE%20PLATFORM-hariprajwal.vercel.app-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Website" />
+    </a>
+    <a href="https://github.com/Hariprajwal">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/k-r-hari-prajwal-655373256/">
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:hariprajwal77@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Hariprajwal&color=7aa2f7&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Visits" />
+  </p>
+
+</div>
+
+---
+
+### 🌐 Live Interactive AI Platform & OS
+
+Check out my interactive platform live at **[hariprajwal.vercel.app](https://hariprajwal.vercel.app)**:
+* ⚡ **Interactive Terminal**: Press `Ctrl + K` anywhere on the live site to enter command-line mode.
+* 📈 **Simulation Suite**: Real-time AI stock analysis, screen OCR engines, and interactive telemetry.
+* 🕉️ **Astronomical Computations**: High-precision Ekadashi lunar calendar & planetary engine.
+
+---
+
+### 🖥️ `HARI_OS v3.8.4` [Telemetry Diagnostic & Boot Log]
+
+```text
+╭─────────────────────────────────────────────────────────────────────────────────────────────╮
+│  NODE     : Hari Prajwal (K R Hari Prajwal)       ARCH     : x86_64 / Edge Heterogeneous    │
+│  IDENTITY : AI Systems Crafter • 3D Sim Dev       LOCATION : Bengaluru, India               │
+│  STATUS   : 🟢 OVERCLOCKED [90+ Repos Built]      COMPILER : Python 3.12 • C++ • TypeScript │
+│  MISSION  : Merging Vedic language preservation, real-world autonomy & edge intelligence.   │
+╰─────────────────────────────────────────────────────────────────────────────────────────────╯
+```
+
+```python
+class HariPrajwal:
+    def __init__(self):
+        self.name = "K R Hari Prajwal"
+        self.core_domains = ["Edge AI", "Speech Synthesis", "3D Geospatial Twins", "LLM Security"]
+        self.active_obsessions = [
+            "Running high-fidelity Sanskrit TTS on ultra-low-power CPU edge devices",
+            "Designing photorealistic 3D digital twins of university campuses via Cesium & Three.js",
+            "Hardening LLMs against prompt injection & adversarial jailbreak payloads",
+            "Event-driven autonomous agents with WhatsApp, Telegram, and Discord integration"
+        ]
+        self.quote = "Code shouldn't just run in the cloud—it should conquer the edge."
+
+    def get_status(self):
+        return "Always shipping, benchmarking, and turning abstract math into production reality."
+```
+
+---
+
+### 🌟 High-Impact Flagship Innovations
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Hariprajwal/EdgeSanskrit-TTS">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hariprajwal&repo=EdgeSanskrit-TTS&theme=tokyonight&border_color=7aa2f7&title_color=7aa2f7&icon_color=bb9af7&show_owner=false" width="100%" alt="EdgeSanskrit-TTS" />
+        </a>
+        <br>
+        <b>🕉️ EdgeSanskrit-TTS</b>
+        <p><i>Zero-GPU, pure CPU offline Sanskrit text-to-speech engine capturing accurate Vedic phonetics and chanting cadence.</i></p>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Hariprajwal/MAHE-BLR-CMAPUS-3D">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hariprajwal&repo=MAHE-BLR-CMAPUS-3D&theme=tokyonight&border_color=7aa2f7&title_color=7aa2f7&icon_color=bb9af7&show_owner=false" width="100%" alt="MAHE 3D Digital Twin" />
+        </a>
+        <br>
+        <b>🌐 MAHE 85-Acre 3D Digital Twin</b>
+        <p><i>Photorealistic geospatial campus simulation with React Three Fiber, Cesium 3D Tiles, Three.js, and AI wayfinding.</i></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Hariprajwal/whatsapp-custom-agent">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hariprajwal&repo=whatsapp-custom-agent&theme=tokyonight&border_color=7aa2f7&title_color=7aa2f7&icon_color=bb9af7&show_owner=false" width="100%" alt="WhatsApp Custom Agent" />
+        </a>
+        <br>
+        <b>🤖 Autonomous WhatsApp PC Gateway</b>
+        <p><i>Autonomous PC remote control & WhatsApp agent driven by local Ollama LLMs with human-like anti-ban safeguards.</i></p>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Hariprajwal/Autonomous-Vehicle-Safety-SIH26">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hariprajwal&repo=Autonomous-Vehicle-Safety-SIH26&theme=tokyonight&border_color=7aa2f7&title_color=7aa2f7&icon_color=bb9af7&show_owner=false" width="100%" alt="Autonomous Vehicle Safety" />
+        </a>
+        <br>
+        <b>🚗 Autonomous Vehicle Safety (SIH 2026)</b>
+        <p><i>Smart India Hackathon project implementing predictive crash avoidance and trajectory safety using MetaDrive simulator.</i></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<details>
+<summary><b>🔥 Explore More Noteworthy Creations</b></summary>
+<br>
+
+* 🛡️ **Prevent Prompt Injection:** Real-time semantic firewall filtering malicious prompt injections and jailbreaks before reaching LLM context.
+* ✍️ **Softcopy-to-Hardcopy AI:** Translates digital PDFs and technical notes into authentic human handwriting with optional pen-plotter G-code output.
+* 🌌 **Ekadashi Astronomical Date Engine:** High-precision celestial engine calculating exact lunar tithi transitions and sunrise alignments.
+* 🚀 **Omni-Route AI Router:** Unified multi-model routing layer distributing requests across Claude, GPT-4, and Gemini with intelligent fallback.
+* ⌨️ **CleanType Turbo:** Low-level Windows utility stripping rogue Unicode and invisible control characters with configurable speed typing simulation.
+
+</details>
+
+---
+
+### ⚡ Technical Battle Station & Weaponry
+
+<div align="center">
+
+  <!-- Glow Tech Stack Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,bash,react,threejs,tailwind,html,css,fastapi,django,nodejs,postgres,mongodb,redis,docker,linux,git,github,postman,vscode&perline=11" alt="Arsenal" />
+  </a>
+
+</div>
+
+<br>
+
+| Classification | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | Python 3.x, TypeScript, JavaScript (ESNext), C / C++, Bash, SQL |
+| **Artificial Intelligence & Speech** | PyTorch, Hugging Face, Transformers, Edge TTS, Ollama, LangChain, RAG Pipelines |
+| **3D Graphics & Spatial** | Three.js, React Three Fiber (R3F), CesiumJS, OGC 3D Tiles, WebGL, Shader Basics |
+| **Backend & Microservices** | FastAPI (Async), Django, Node.js, WebSockets, REST APIs, JSON-RPC |
+| **Databases & In-Memory** | PostgreSQL, MongoDB, Redis, SQLite |
+| **Infrastructure & Security** | Docker, Linux (Debian, Ubuntu, Kali), Windows Internals (PowerShell, WMI, VBS), Git |
+
+---
+
+### 📊 Real-Time GitHub Telemetry & Velocity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <!-- Live GitHub Stats with Total Stars & Commits -->
+        <a href="https://github.com/Hariprajwal">
+          <img src="https://github-readme-stats.vercel.app/api?username=Hariprajwal&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=0d1117&rank_icon=github" alt="Hari's GitHub Stats" height="175" />
+        </a>
+      </td>
+      <td>
+        <!-- Live Streak Counter -->
+        <a href="https://github.com/Hariprajwal">
+          <img src="https://streak-stats.demolab.com/?user=Hariprajwal&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&background=0d1117" alt="Hari's GitHub Streak" height="175" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <!-- Compact Language Breakdown -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprajwal&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=0d1117" alt="Top Languages" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🎮 Terminal CLI Quick-Dial
+
+```bash
+$ npx hari-prajwal --interactive
+```
+
+```text
+  [1] View Live Web Platform & OS   ──> https://hariprajwal.vercel.app
+  [2] View 3D MAHE Campus Twin      ──> https://github.com/Hariprajwal/MAHE-BLR-CMAPUS-3D
+  [3] Run EdgeSanskrit TTS Demo     ──> https://github.com/Hariprajwal/EdgeSanskrit-TTS
+  [4] Inspect WhatsApp AI PC Agent  ──> https://github.com/Hariprajwal/whatsapp-custom-agent
+  [5] Connect with Hari on LinkedIn ──> https://www.linkedin.com/in/k-r-hari-prajwal-655373256/
+  [6] Direct Mail Transmission      ──> mailto:hariprajwal77@gmail.com
+```
+
+---
+
+<div align="center">
+
+  ### 📡 Let's Build Something Revolutionary
+
+  <p>
+    Whether it's discussing <b>Edge AI speech architectures, 3D geospatial rendering, LLM security firewalls, or hackathon collaboration</b> — my inbox is always open.
+  </p>
+
+  <a href="https://hariprajwal.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Platform-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Platform" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/k-r-hari-prajwal-655373256/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hari%20Prajwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <a href="mailto:hariprajwal77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
   <a href="https://github.com/Hariprajwal?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Hariprajwal?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars" alt="Total GitHub Stars">
+    <img src="https://img.shields.io/badge/Explore%2090%2B%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repos" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Hariprajwal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="GitHub profile views">
-</p>
 
----
+  <br><br>
 
-## 🌐 Live Interactive AI Platform & Website
+  <sub>⚡ Crafted with obsession by <b>Hari Prajwal</b> • <i>"Always be building, always be optimizing."</i> 🚀</sub>
 
-Check out my next-level Vercel web platform featuring interactive AI Stock simulators, Ekadashi astronomical date engine calculators, live screen OCR demos, and terminal CLI!
-
-* ⚡ **Live Website Codebase**: Hosted inside this repository!
-* 🚀 **Interactive Terminal**: Press `Ctrl+K` on the live site to trigger command mode!
-
----
-
-## 🧠 About Me
-
-I'm a Computer Science student who enjoys building **AI systems, automation tools, APIs, intelligent applications and experimental software projects**.
-
-I like taking an idea from a simple concept and turning it into a working system using open source technologies.
-
-```text
-AI Systems       → LLMs • RAG • AI Agents • Local AI
-Automation       → APIs • Bots • Workflows • Data Pipelines
-Backend          → FastAPI • Django • REST APIs • Databases
-Security         → Prompt Injection • AI Security
-Visualization    → 3D Web • Data Visualization • Interactive Systems
-Open Source      → Libraries • APIs • Developer Tools
-```
-
----
-
-# 🚀 Featured Projects
-
-## 🛡️ PREVENT PROMPT INJECTION
-
-### AI Security System
-
-A project focused on detecting and preventing **prompt injection and malicious instructions against AI systems**.
-
-**Focus**
-
-* 🔐 Prompt injection detection
-* 🧠 AI security
-* 🤖 LLM protection
-* ⚡ Real time analysis
-* 🌐 API based architecture
-
-**Technologies**
-
-`Python` `AI` `LLMs` `Security` `APIs`
-
----
-
-## 🕉️ EdgeSanskrit TTS
-
-### Lightweight Sanskrit AI
-
-An experimental open source project exploring **lightweight Sanskrit language and speech technologies** designed with CPU and edge environments in mind.
-
-**Focus**
-
-* 🕉️ Sanskrit language processing
-* 🎙️ Text to Speech
-* ⚡ Lightweight inference
-* 💻 CPU / edge computing
-* 🔌 Offline AI
-
-**Technologies**
-
-`Python` `NLP` `TTS` `AI` `Edge AI`
-
----
-
-## 🤖 Universal Chat Agent
-
-### Multi Platform Automation
-
-An automation system designed to connect intelligent workflows across messaging platforms.
-
-**Focus**
-
-* 💬 Messaging automation
-* 🤖 Automated responses
-* 🔄 Cross platform workflows
-* ⚙️ Python automation
-* 🔌 API integrations
-
-**Technologies**
-
-`Python` `Automation` `APIs` `Telegram` `Discord`
-
----
-
-## 📈 Auto Trader Bot
-
-### Automated Trading & Backtesting
-
-An experimental automated trading system exploring algorithmic strategies, market data and backtesting.
-
-**Focus**
-
-* 📊 Market data
-* 🧪 Backtesting
-* 🤖 Automated strategies
-* 🏦 Broker APIs
-* 🐳 Docker based deployment
-
-**Technologies**
-
-`Python` `Docker` `APIs` `Backtesting` `Algorithmic Trading`
-
----
-
-## 📅 AI Stock Calendar
-
-### AI Powered Market Intelligence
-
-An experimental system combining automated data collection with AI analysis to organize and analyze stock market events and catalysts.
-
-**Focus**
-
-* 📊 Market intelligence
-* 🕷️ Automated data collection
-* 🧠 LLM analysis
-* 📅 Event tracking
-* 💾 Historical data
-
-**Technologies**
-
-`Python` `LLMs` `SQLite` `Web Scraping` `APIs`
-
----
-
-## 🧠 Ollama Local LLM Server
-
-### Private Local AI Infrastructure
-
-A local LLM server experiment designed to expose locally running models through an API.
-
-**Focus**
-
-* 🔒 Private AI
-* 🧠 Local LLM inference
-* 🔌 REST APIs
-* ⚡ Ollama
-* 🐳 Containerization
-
-**Technologies**
-
-`Python` `Ollama` `REST API` `Docker` `Linux`
-
----
-
-## 🧬 GenVeda
-
-### AI Assisted Healthcare Platform
-
-An experimental AI platform exploring multilingual assistance, retrieval augmented generation and intelligent information systems.
-
-**Focus**
-
-* 🧠 RAG
-* 🌐 Multilingual AI
-* 🔎 Information retrieval
-* 🤖 AI assistants
-* 📚 Knowledge systems
-
-**Technologies**
-
-`Python` `Django` `React` `RAG` `AI`
-
----
-
-## 🕉️ Ekadashi & Lunar Calendar APIs
-
-### Astronomical Calculation APIs
-
-Open source API projects for calculating traditional lunar calendar events using astronomical calculations.
-
-**Projects**
-
-* 🕉️ Ekadashi API
-* 🌙 Sankashti API
-* 🌑 Amavasya API
-* 🤖 Telegram integrations
-
-**Technologies**
-
-`Python` `FastAPI` `Astronomy` `REST APIs`
-
----
-
-## 🧊 3D Shatkona Visualization
-
-### Interactive 3D Web Graphics
-
-An interactive browser based 3D visualization exploring geometric structures.
-
-**Focus**
-
-* 🧊 3D rendering
-* 📐 Geometry
-* 🌐 Interactive web graphics
-* ✨ Visualization
-
-**Technologies**
-
-`HTML` `CSS` `JavaScript` `3D Graphics`
-
----
-
-## 🔎 Keyword Crawler & Visualizer
-
-### SEO & Web Intelligence
-
-A web crawling and visualization project for extracting and analyzing keywords from websites.
-
-**Focus**
-
-* 🕷️ Web crawling
-* 🔎 Keyword extraction
-* 📊 Visualization
-* 🧠 Search analysis
-* 📈 SEO intelligence
-
-**Technologies**
-
-`Python` `Web Scraping` `SEO` `Data Visualization`
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,typescript,html,css" alt="Programming languages" />
-</p>
-
-### ⚛️ Frameworks & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,django,fastapi,nodejs" alt="Frameworks and backend technologies" />
-</p>
-
-### 🤖 AI & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI and machine learning technologies" />
-</p>
-
-`LLMs` `RAG` `AI Agents` `Ollama` `NLP` `TTS` `Machine Learning`
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Database technologies" />
-</p>
-
-### ⚙️ Tools & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Development and infrastructure tools" />
-</p>
-
----
-
-# 🔥 What I Like Building
-
-```text
-                    ┌─────────────────────┐
-                    │     AI SYSTEMS      │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              │                │                │
-          LLMs / RAG       AI Agents       AI Security
-              │                │                │
-              └────────────────┼────────────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │     AUTOMATION      │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              │                │                │
-             APIs           Bots          Data Pipelines
-              │                │                │
-              └────────────────┼────────────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │   REAL APPLICATIONS │
-                    └─────────────────────┘
-```
-
----
-
-# 🌐 Open Source
-
-I maintain and experiment with projects across:
-
-* 🤖 Artificial Intelligence
-* 🧠 Local LLMs
-* 🔐 AI Security
-* ⚙️ Automation
-* 📡 REST APIs
-* 📊 Data Processing
-* 🌐 Web Applications
-* 🧊 3D Visualization
-* 🔎 SEO & Web Intelligence
-* 🕉️ Astronomy & Calendar APIs
-
-### 📂 Explore All Projects
-
-<p align="center">
-  <a href="https://github.com/Hariprajwal?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀%20Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all GitHub repositories">
-  </a>
-</p>
-
----
-
-# 📚 Currently Exploring
-
-```text
-🤖 Advanced AI Agents
-🧠 Local & Edge LLMs
-🔐 AI Security
-🌐 Distributed AI
-🏗️ Backend Architecture
-🗺️ 3D Maps & Geospatial Systems
-🎙️ Lightweight Speech Models
-⚡ High Performance Automation
-```
-
----
-
-# 📊 GitHub
-
-<p align="center">
-  <a href="https://github.com/Hariprajwal?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Public GitHub repositories">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hariprajwal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="GitHub profile views">
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/Hariprajwal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/in/k-r-hari-prajwal-655373256/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://hariprajwal.streamlit.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Portfolio">
-</a>
-
-</p>
-
----
-
-# ⚡ Philosophy
-
-<p align="center">
-
-### <i>"Don't just write code. Build something people can use."</i>
-
-</p>
-
-I enjoy experimenting with new technologies, learning by building and turning unusual ideas into working software.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" alt="Animated footer">
-</p>
+</div>
