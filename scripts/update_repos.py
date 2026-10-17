@@ -149,12 +149,12 @@ def update_readme():
         content
     )
 
-    # 3. Update the Typing SVG URL with all 90+ individual repos
+    # 3. Update the Typing SVG URL with all 90+ clean repo names (no internal index prefixes)
     clean_lines = [f"⚡ LIVE RADAR: {total}+ PUBLIC REPOSITORIES [CLICK TO BROWSE]"]
-    for i, r in enumerate(repos):
+    for r in repos:
         r_name = r.get("name", "")
         if r_name != USERNAME:
-            clean_lines.append(f"[{i+1:02d}/{total}] {r_name}")
+            clean_lines.append(r_name)
     clean_lines.append(f"📂 Click Here To Explore All {total}+ Repositories ↗")
 
     encoded_lines = ";".join([urllib.parse.quote(line) for line in clean_lines])
@@ -169,7 +169,7 @@ def update_readme():
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(content)
 
-    print("README.md successfully updated with all repos & typing animator!")
+    print("README.md successfully updated with clean repo names!")
 
 if __name__ == "__main__":
     update_readme()
