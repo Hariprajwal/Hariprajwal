@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
   <!-- 🌌 Cyberpunk Waving Header — Click to open all repos -->
   <a href="https://github.com/Hariprajwal?tab=repositories">
@@ -26,7 +26,9 @@
     <a href="mailto:hariprajwal77@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/Hariprajwal?tab=repositories"><img src="https://img.shields.io/badge/TELEMETRY-90%2B%20PROJECTS%20ACTIVE-bb9af7?style=for-the-badge&logo=git&logoColor=white" alt="Telemetry Status" /></a>
+    <a href="https://github.com/Hariprajwal?tab=repositories">
+      <img src="https://img.shields.io/badge/TELEMETRY-90%2B%20PROJECTS%20ACTIVE-bb9af7?style=for-the-badge&logo=git&logoColor=white" alt="Telemetry Status" />
+    </a>
   </p>
 
 </div>
@@ -36,24 +38,24 @@
 ### 🌐 Live Interactive AI Platform & OS
 
 Check out my interactive platform live at **[hariprajwal.vercel.app](https://hariprajwal.vercel.app)**:
-* ⚡ **Interactive Terminal**: Press Ctrl + K anywhere on the live site to enter command-line mode.
+* ⚡ **Interactive Terminal**: Press `Ctrl + K` anywhere on the live site to enter command-line mode.
 * 📈 **Simulation Suite**: Real-time AI stock analysis, screen OCR engines, and interactive telemetry.
 * 🕉️ **Astronomical Computations**: High-precision Ekadashi lunar calendar & planetary engine.
 
 ---
 
-### 🖥️ HARI_OS v3.8.4 [Telemetry Diagnostic & Boot Log]
+### 🖥️ `HARI_OS v3.8.4` [Telemetry Diagnostic & Boot Log]
 
-`	ext
+```text
 ╭─────────────────────────────────────────────────────────────────────────────────────────────╮
 │  NODE     : Hari Prajwal (K R Hari Prajwal)       ARCH     : x86_64 / Edge Heterogeneous    │
 │  IDENTITY : AI Systems Crafter • 3D Sim Dev       LOCATION : Bengaluru, India               │
 │  STATUS   : 🟢 OVERCLOCKED [90+ Repos Built]      COMPILER : Python 3.12 • C++ • TypeScript │
 │  MISSION  : Merging Vedic language preservation, real-world autonomy & edge intelligence.   │
 ╰─────────────────────────────────────────────────────────────────────────────────────────────╯
-`
+```
 
-`python
+```python
 class HariPrajwal:
     def __init__(self):
         self.name = "K R Hari Prajwal"
@@ -67,7 +69,7 @@ class HariPrajwal:
             "Event-driven autonomous agents with WhatsApp, Telegram, and Discord integration"
         ]
         self.quote = "Code shouldn't just run in the cloud—it should conquer the edge."
-`
+```
 
 ---
 
@@ -165,8 +167,7 @@ class HariPrajwal:
 
 ---
 
-### 🗂️ All 90+ Public Repositories (Full Directory)
-
+### 🗂️ All 90+ Public Repositories (Interactive Matrix)
 <details>
 <summary><b>📂 Explore All 90+ Public Repositories (Categorized Interactive Directory)</b></summary><br>
 
@@ -298,7 +299,6 @@ class HariPrajwal:
 </details>
 
 
-
 ---
 
 <div align="center">
@@ -330,5 +330,3 @@ class HariPrajwal:
   <sub>⚡ Crafted with obsession by <b>Hari Prajwal</b> • <i>"Always be building, always be optimizing."</i> 🚀</sub>
 
 </div>
-
-
