@@ -7,6 +7,7 @@ import urllib.parse
 USERNAME = "Hariprajwal"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 README_PATH = os.path.abspath(os.path.join(SCRIPT_DIR, "..", "README.md"))
+BANNER_PATH = os.path.abspath(os.path.join(SCRIPT_DIR, "..", "assets", "banner_spotlight.svg"))
 
 CATEGORY_RULES = [
     ("🧠 Autonomous Agents & LLM Architectures", [
@@ -171,5 +172,41 @@ def update_readme():
 
     print("README.md successfully updated with clean repo names!")
 
+    # 4. Update dynamic numbers in banner_spotlight.svg
+    update_banner(total)
+
+def update_banner(total):
+    if not os.path.exists(BANNER_PATH):
+        print(f"Notice: {BANNER_PATH} not found.")
+        return
+
+    with open(BANNER_PATH, "r", encoding="utf-8") as f:
+        svg_content = f.read()
+
+    # Update LVL {total}+ BUILD
+    svg_content = re.sub(
+        r"LVL\s+\d+\+\s+BUILD",
+        f"LVL {total}+ BUILD",
+        svg_content
+    )
+    # Update {total}+ REPOS ACTIVE
+    svg_content = re.sub(
+        r"\d+\+\s+REPOS\s+ACTIVE",
+        f"{total}+ REPOS ACTIVE",
+        svg_content
+    )
+    # Update NODES: {total}+ REPOS
+    svg_content = re.sub(
+        r"NODES:\s+\d+\+\s+REPOS",
+        f"NODES: {total}+ REPOS",
+        svg_content
+    )
+
+    with open(BANNER_PATH, "w", encoding="utf-8") as f:
+        f.write(svg_content)
+
+    print(f"banner_spotlight.svg successfully updated with {total}+ repos!")
+
 if __name__ == "__main__":
     update_readme()
+
