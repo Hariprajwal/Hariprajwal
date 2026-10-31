@@ -29,6 +29,9 @@
     <a href="https://github.com/Hariprajwal?tab=repositories">
       <img src="https://img.shields.io/badge/TELEMETRY-93%2B%20PROJECTS%20ACTIVE-bb9af7?style=for-the-badge&logo=git&logoColor=white" alt="Telemetry Status" />
     </a>
+    <a href="https://github.com/Hariprajwal?tab=repositories">
+      <img src="https://img.shields.io/github/stars/Hariprajwal?style=for-the-badge&logo=github&color=ffb86c&logoColor=black&label=TOTAL%20STARS" alt="Total Stars" />
+    </a>
   </p>
 
 </div>
@@ -146,7 +149,7 @@ class HariPrajwal:
     <tr>
       <td>
         <a href="https://github.com/Hariprajwal?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api?username=Hariprajwal&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=0d1117&rank_icon=github" alt="Hari's GitHub Stats" height="175" />
+          <img src="https://github-stats-extended.vercel.app/api?username=Hariprajwal&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=0d1117" alt="Hari's GitHub Stats" height="175" />
         </a>
       </td>
       <td>
