@@ -8,6 +8,7 @@ USERNAME = "Hariprajwal"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 README_PATH = os.path.abspath(os.path.join(SCRIPT_DIR, "..", "README.md"))
 BANNER_PATH = os.path.abspath(os.path.join(SCRIPT_DIR, "..", "assets", "banner_spotlight.svg"))
+BANNER_LIGHT_PATH = os.path.abspath(os.path.join(SCRIPT_DIR, "..", "assets", "banner_spotlight_light.svg"))
 
 CATEGORY_RULES = [
     ("🧠 Autonomous Agents & LLM Architectures", [
@@ -176,36 +177,37 @@ def update_readme():
     update_banner(total)
 
 def update_banner(total):
-    if not os.path.exists(BANNER_PATH):
-        print(f"Notice: {BANNER_PATH} not found.")
-        return
+    for path, name in [(BANNER_PATH, "banner_spotlight.svg"), (BANNER_LIGHT_PATH, "banner_spotlight_light.svg")]:
+        if not os.path.exists(path):
+            print(f"Notice: {path} not found.")
+            continue
 
-    with open(BANNER_PATH, "r", encoding="utf-8") as f:
-        svg_content = f.read()
+        with open(path, "r", encoding="utf-8") as f:
+            svg_content = f.read()
 
-    # Update LVL {total}+ BUILD
-    svg_content = re.sub(
-        r"LVL\s+\d+\+\s+BUILD",
-        f"LVL {total}+ BUILD",
-        svg_content
-    )
-    # Update {total}+ REPOS ACTIVE
-    svg_content = re.sub(
-        r"\d+\+\s+REPOS\s+ACTIVE",
-        f"{total}+ REPOS ACTIVE",
-        svg_content
-    )
-    # Update NODES: {total}+ REPOS
-    svg_content = re.sub(
-        r"NODES:\s+\d+\+\s+REPOS",
-        f"NODES: {total}+ REPOS",
-        svg_content
-    )
+        # Update LVL {total}+ BUILD
+        svg_content = re.sub(
+            r"LVL\s+\d+\+\s+BUILD",
+            f"LVL {total}+ BUILD",
+            svg_content
+        )
+        # Update {total}+ REPOS ACTIVE
+        svg_content = re.sub(
+            r"\d+\+\s+REPOS\s+ACTIVE",
+            f"{total}+ REPOS ACTIVE",
+            svg_content
+        )
+        # Update NODES: {total}+ REPOS
+        svg_content = re.sub(
+            r"NODES:\s+\d+\+\s+REPOS",
+            f"NODES: {total}+ REPOS",
+            svg_content
+        )
 
-    with open(BANNER_PATH, "w", encoding="utf-8") as f:
-        f.write(svg_content)
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(svg_content)
 
-    print(f"banner_spotlight.svg successfully updated with {total}+ repos!")
+        print(f"{name} successfully updated with {total}+ repos!")
 
 if __name__ == "__main__":
     update_readme()

@@ -1,8 +1,12 @@
 <div align="center">
 
-  <!-- 🌌 3D Cyberpunk Holographic Header Banner -->
+  <!-- 🌌 3D Cyberpunk Holographic Header Banner (Auto-Adapts to Browser Dark/Light Mode) -->
   <a href="https://github.com/Hariprajwal?tab=repositories">
-    <img src="https://github.com/Hariprajwal/Hariprajwal/raw/main/assets/banner_spotlight.svg" width="100%" alt="Hari Prajwal 3D Cyberpunk Header" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hariprajwal/Hariprajwal/main/assets/banner_spotlight.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hariprajwal/Hariprajwal/main/assets/banner_spotlight_light.svg">
+      <img src="https://raw.githubusercontent.com/Hariprajwal/Hariprajwal/main/assets/banner_spotlight.svg" width="100%" alt="Hari Prajwal Dynamic Cyberpunk Header" />
+    </picture>
   </a>
 
   <!-- ⚡ LIVE CYBERPUNK TERMINAL TYPING ANIMATOR (Click to view all 90+ Repos) -->
@@ -179,8 +183,8 @@ class HariPrajwal:
 
 | Repository | Language | Description |
 | :--- | :---: | :--- |
-| [**omni-route-guide**](https://github.com/Hariprajwal/omni-route-guide) | `Python` | Get 1.5 Billion free AI tokens/month — one local endpoint for Claude, GPT, Gemini and 500+ models |
 | [**Hariprajwal**](https://github.com/Hariprajwal/Hariprajwal) | `JavaScript` | Hariprajwal \| Software Developer . Expert in AI Systems, Automation, and REST APIs. Creator of Sankashti API |
+| [**omni-route-guide**](https://github.com/Hariprajwal/omni-route-guide) | `Python` | Get 1.5 Billion free AI tokens/month — one local endpoint for Claude, GPT, Gemini and 500+ models |
 | [**OmniRoute**](https://github.com/Hariprajwal/OmniRoute) | `Code` | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
 | [**agentic-awesome-skills**](https://github.com/Hariprajwal/agentic-awesome-skills) | `Code` | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. |
 | [**MAHE-BLR-CMAPUS-3D**](https://github.com/Hariprajwal/MAHE-BLR-CMAPUS-3D) | `TypeScript` | Next-generation photorealistic 3D digital twin & AI-guided geospatial simulation of the 85-acre MAHE Bengaluru campus. Built with React Three Fiber, CesiumGS OGC 3D Tiles, Three.js, and TypeScript. |
