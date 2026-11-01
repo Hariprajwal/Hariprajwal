@@ -179,8 +179,8 @@ class HariPrajwal:
 
 | Repository | Language | Description |
 | :--- | :---: | :--- |
-| [**Hariprajwal**](https://github.com/Hariprajwal/Hariprajwal) | `JavaScript` | Hariprajwal \| Software Developer . Expert in AI Systems, Automation, and REST APIs. Creator of Sankashti API |
 | [**omni-route-guide**](https://github.com/Hariprajwal/omni-route-guide) | `Python` | Get 1.5 Billion free AI tokens/month — one local endpoint for Claude, GPT, Gemini and 500+ models |
+| [**Hariprajwal**](https://github.com/Hariprajwal/Hariprajwal) | `JavaScript` | Hariprajwal \| Software Developer . Expert in AI Systems, Automation, and REST APIs. Creator of Sankashti API |
 | [**OmniRoute**](https://github.com/Hariprajwal/OmniRoute) | `Code` | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
 | [**agentic-awesome-skills**](https://github.com/Hariprajwal/agentic-awesome-skills) | `Code` | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. |
 | [**MAHE-BLR-CMAPUS-3D**](https://github.com/Hariprajwal/MAHE-BLR-CMAPUS-3D) | `TypeScript` | Next-generation photorealistic 3D digital twin & AI-guided geospatial simulation of the 85-acre MAHE Bengaluru campus. Built with React Three Fiber, CesiumGS OGC 3D Tiles, Three.js, and TypeScript. |
