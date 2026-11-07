@@ -183,8 +183,8 @@ class HariPrajwal:
 
 | Repository | Language | Description |
 | :--- | :---: | :--- |
-| [**ECC-test**](https://github.com/Hariprajwal/ECC-test) | `Code` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 | [**Hariprajwal**](https://github.com/Hariprajwal/Hariprajwal) | `JavaScript` | Hariprajwal \| Software Developer . Expert in AI Systems, Automation, and REST APIs. Creator of Sankashti API |
+| [**ECC-test**](https://github.com/Hariprajwal/ECC-test) | `Code` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 | [**omni-route-guide**](https://github.com/Hariprajwal/omni-route-guide) | `Python` | Get 1.5 Billion free AI tokens/month — one local endpoint for Claude, GPT, Gemini and 500+ models |
 | [**OmniRoute**](https://github.com/Hariprajwal/OmniRoute) | `Code` | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
 | [**agentic-awesome-skills**](https://github.com/Hariprajwal/agentic-awesome-skills) | `Code` | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench. |
