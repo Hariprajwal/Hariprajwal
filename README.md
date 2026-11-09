@@ -183,7 +183,7 @@ class HariPrajwal:
 
 | Repository | Language | Description |
 | :--- | :---: | :--- |
-| [**HariAI**](https://github.com/Hariprajwal/HariAI) | `Python` | Compact language model research, local AI experiments, and controlled continual learning under a 35 MB weight budget. |
+| [**HariAI**](https://github.com/Hariprajwal/HariAI) | `Python` | Compact language model research, local AI experiments, and controlled continual learning under a 95 MB weight budget. |
 | [**Hariprajwal**](https://github.com/Hariprajwal/Hariprajwal) | `JavaScript` | Hariprajwal \| Software Developer . Expert in AI Systems, Automation, and REST APIs. Creator of Sankashti API |
 | [**ECC-test**](https://github.com/Hariprajwal/ECC-test) | `Code` | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 | [**omni-route-guide**](https://github.com/Hariprajwal/omni-route-guide) | `Python` | Get 1.5 Billion free AI tokens/month — one local endpoint for Claude, GPT, Gemini and 500+ models |
