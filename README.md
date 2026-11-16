@@ -11,7 +11,7 @@
 
   <!-- ⚡ LIVE CYBERPUNK TERMINAL TYPING ANIMATOR (Click to view all 90+ Repos) -->
   <a href="https://github.com/Hariprajwal?tab=repositories" title="Click to view all 90+ Public Repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1800&pause=550&color=7AA2F7&center=true&vCenter=true&multiline=false&width=840&height=45&lines=%E2%9A%A1%20LIVE%20RADAR%3A%2094%2B%20PUBLIC%20REPOSITORIES%20%5BCLICK%20TO%20BROWSE%5D;EdgeSanskrit-TTS;HariAI;ECC-test;manhwahub;omni-route-guide;Voice-Frequency-Visualizer-Cymatics-Audio-Art-Generator;qiskit-qpe-simulator;privacy-policy;OmniRoute;agentic-awesome-skills;MAHE-BLR-CMAPUS-3D;jyothy-institute-of-technology-question-papers;sherlock;whatsapp-custom-agent;softcopy-to-hardcopy;clean-text-typer;open_deep_research;webcam-pnp-watchdog;Autonomous-Vehicle-Safety-SIH26;freeCodeCamp;build-your-own-x;metadrive;PREVENT-PROMPT-INJECTION;handy-websites;HPCS-LAB;agency-agents;MY--RESUME;auto-trader-bot;prompts.chat;youtube-shorts-to-instagram-reels-automation;openmpi-studio;universal-chat-agent;PG-CET-;system_prompts_leaks;happy-fathers-day;Anonymous-chat-bot-telegram;Ai-stock-calendar;Geneveda-Trial-and-Error;youtube-link-fetcher;Ekadashi-reminder;sankashti;Amavasya-api-;Ekadashi-api;Hari-AI;sankashti-api;AutoGifTagger;Vid2GIF;telegram-pinned-message-forwarder;TGForwarder;3D-Shatkona-Hexagram-Star-of-David;ollama-local-llm-server;AI-GENERATOR-;keyword-crawler-visualizer;Bail-Reckenor;sih_coalMine;Auto_gif_uploader-Giphy;YouTube2GIF;Collage-website-filesharing;AutoNumberTyper;GIF-DELETION;CORDINATES-;auto-video-downoloader-pyatogui;GIF-Automator;video-gif-pair-cleaner;7-lives;IdeaForge;Ganesha-manwa;TenorGIFUploader;PROMPT-FOR-STUDYING-VTU-;LiveScreenOCR-screen-reader-;Amavasya;Alvas-Hackthon-Backend;Alvas-Hackthon-frontend;Bgs-hackthon-frontend;Ishttaa-TechCraft-Pvt-Ltd-Company-Probelm-Statement;hackthon-kssem-new;hackthon-kssem;Hackathon-idea-generator-;HariPrajwal-ek;ekadashi-bot-telegram;ekdashibot-telegram;TetherX_vIt;rmsit-hackthon-;hackthon-frontend-;HackALeague_-String_Matching-;astracode;SmartCodeHub;KrshinaBot;LLM-BESTCODE;Autogifuploader-Giffy;stickerbot---telegram-;manga-reader;ML_MINIPROJECT;%F0%9F%93%82%20Click%20Here%20To%20Explore%20All%2094%2B%20Repositories%20%E2%86%97" alt="Cyberpunk Typing Terminal Cycling All 90 Repos" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1800&pause=550&color=7AA2F7&center=true&vCenter=true&multiline=false&width=840&height=45&lines=%E2%9A%A1%20LIVE%20RADAR%3A%2095%2B%20PUBLIC%20REPOSITORIES%20%5BCLICK%20TO%20BROWSE%5D;mtech-cse-notes;EdgeSanskrit-TTS;HariAI;ECC-test;manhwahub;omni-route-guide;Voice-Frequency-Visualizer-Cymatics-Audio-Art-Generator;qiskit-qpe-simulator;privacy-policy;OmniRoute;agentic-awesome-skills;MAHE-BLR-CMAPUS-3D;jyothy-institute-of-technology-question-papers;sherlock;whatsapp-custom-agent;softcopy-to-hardcopy;clean-text-typer;open_deep_research;webcam-pnp-watchdog;Autonomous-Vehicle-Safety-SIH26;freeCodeCamp;build-your-own-x;metadrive;PREVENT-PROMPT-INJECTION;handy-websites;HPCS-LAB;agency-agents;MY--RESUME;auto-trader-bot;prompts.chat;youtube-shorts-to-instagram-reels-automation;openmpi-studio;universal-chat-agent;PG-CET-;system_prompts_leaks;happy-fathers-day;Anonymous-chat-bot-telegram;Ai-stock-calendar;Geneveda-Trial-and-Error;youtube-link-fetcher;Ekadashi-reminder;sankashti;Amavasya-api-;Ekadashi-api;Hari-AI;sankashti-api;AutoGifTagger;Vid2GIF;telegram-pinned-message-forwarder;TGForwarder;3D-Shatkona-Hexagram-Star-of-David;ollama-local-llm-server;AI-GENERATOR-;keyword-crawler-visualizer;Bail-Reckenor;sih_coalMine;Auto_gif_uploader-Giphy;YouTube2GIF;Collage-website-filesharing;AutoNumberTyper;GIF-DELETION;CORDINATES-;auto-video-downoloader-pyatogui;GIF-Automator;video-gif-pair-cleaner;7-lives;IdeaForge;Ganesha-manwa;TenorGIFUploader;PROMPT-FOR-STUDYING-VTU-;LiveScreenOCR-screen-reader-;Amavasya;Alvas-Hackthon-Backend;Alvas-Hackthon-frontend;Bgs-hackthon-frontend;Ishttaa-TechCraft-Pvt-Ltd-Company-Probelm-Statement;hackthon-kssem-new;hackthon-kssem;Hackathon-idea-generator-;HariPrajwal-ek;ekadashi-bot-telegram;ekdashibot-telegram;TetherX_vIt;rmsit-hackthon-;hackthon-frontend-;HackALeague_-String_Matching-;astracode;SmartCodeHub;KrshinaBot;LLM-BESTCODE;Autogifuploader-Giffy;stickerbot---telegram-;manga-reader;ML_MINIPROJECT;%F0%9F%93%82%20Click%20Here%20To%20Explore%20All%2095%2B%20Repositories%20%E2%86%97" alt="Cyberpunk Typing Terminal Cycling All 90 Repos" />
   </a>
 
   <br>
@@ -19,7 +19,7 @@
   <!-- 🚀 Social & Telemetry Badges -->
   <p align="center">
     <a href="https://github.com/Hariprajwal?tab=repositories">
-      <img src="https://img.shields.io/badge/REPOSITORIES-94%2B%20PUBLIC%20PROJECTS-00f5d4?style=for-the-badge&logo=github&logoColor=black" alt="90+ Public Repositories" />
+      <img src="https://img.shields.io/badge/REPOSITORIES-95%2B%20PUBLIC%20PROJECTS-00f5d4?style=for-the-badge&logo=github&logoColor=black" alt="90+ Public Repositories" />
     </a>
     <a href="https://hariprajwal.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/LIVE%20PLATFORM-hariprajwal.vercel.app-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" />
@@ -31,7 +31,7 @@
       <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/Hariprajwal?tab=repositories">
-      <img src="https://img.shields.io/badge/TELEMETRY-94%2B%20PROJECTS%20ACTIVE-bb9af7?style=for-the-badge&logo=git&logoColor=white" alt="Telemetry Status" />
+      <img src="https://img.shields.io/badge/TELEMETRY-95%2B%20PROJECTS%20ACTIVE-bb9af7?style=for-the-badge&logo=git&logoColor=white" alt="Telemetry Status" />
     </a>
     <a href="https://github.com/Hariprajwal?tab=repositories">
       <img src="https://img.shields.io/github/stars/Hariprajwal?style=for-the-badge&logo=github&color=ffb86c&logoColor=black&label=TOTAL%20STARS" alt="Total Stars" />
@@ -57,7 +57,7 @@ Check out my interactive platform live at **[hariprajwal.vercel.app](https://har
 ╭─────────────────────────────────────────────────────────────────────────────────────────────╮
 │  NODE     : Hari Prajwal (K R Hari Prajwal)       ARCH     : x86_64 / Edge Heterogeneous    │
 │  IDENTITY : AI Systems Crafter • 3D Sim Dev       LOCATION : Bengaluru, India               │
-│  STATUS   : 🟢 OVERCLOCKED [94+ Repos Built]      COMPILER : Python 3.12 • C++ • TypeScript │
+│  STATUS   : 🟢 OVERCLOCKED [95+ Repos Built]      COMPILER : Python 3.12 • C++ • TypeScript │
 │  MISSION  : Merging Vedic language preservation, real-world autonomy & edge intelligence.   │
 ╰─────────────────────────────────────────────────────────────────────────────────────────────╯
 ```
@@ -66,7 +66,7 @@ Check out my interactive platform live at **[hariprajwal.vercel.app](https://har
 class HariPrajwal:
     def __init__(self):
         self.name = "K R Hari Prajwal"
-        self.public_repositories = 94          # and counting...
+        self.public_repositories = 95          # and counting...
         self.core_domains = ["Edge AI", "Speech Synthesis", "3D Geospatial Twins", "LLM Security", "Media Automation"]
         self.active_obsessions = [
             "Running high-fidelity Sanskrit TTS on ultra-low-power CPU edge devices",
@@ -174,10 +174,10 @@ class HariPrajwal:
 
 ---
 
-### 🗂️ All 94+ Public Repositories (Interactive Matrix)
+### 🗂️ All 95+ Public Repositories (Interactive Matrix)
 <!-- REPOS_TABLE_START -->
 <details>
-<summary><b>📂 Explore All 94+ Public Repositories (Categorized Interactive Directory)</b></summary><br>
+<summary><b>📂 Explore All 95+ Public Repositories (Categorized Interactive Directory)</b></summary><br>
 
 #### 🧠 Autonomous Agents & LLM Architectures (33)
 
@@ -286,10 +286,11 @@ class HariPrajwal:
 | [**hackthon-frontend-**](https://github.com/Hariprajwal/hackthon-frontend-) | `JavaScript` | Open-source project by Hariprajwal |
 | [**HackALeague_-String_Matching-**](https://github.com/Hariprajwal/HackALeague_-String_Matching-) | `Code` | Secured String Matching using Searchable Encryption Proposed by: Mr. G. T. Venkateshwar Rao  Participants are required to design and develop a secure system that enables string matching on encrypted data while preserving data confidentiality and privacy. |
 
-#### 🛠️ Developer Platforms, Systems & Open Source (17)
+#### 🛠️ Developer Platforms, Systems & Open Source (18)
 
 | Repository | Language | Description |
 | :--- | :---: | :--- |
+| [**mtech-cse-notes**](https://github.com/Hariprajwal/mtech-cse-notes) | `Code` | Open-source project by Hariprajwal |
 | [**manhwahub**](https://github.com/Hariprajwal/manhwahub) | `HTML` | A modern, open-source Manhwa reader and tracker built with [Your Tech Stack]. View latest chapters and manage your reading list." This captures searchers looking for "open source manhwa reader" or "manhwa tracker." |
 | [**qiskit-qpe-simulator**](https://github.com/Hariprajwal/qiskit-qpe-simulator) | `Python` | End-to-end Quantum Phase Estimation (QPE) pipeline and interactive Streamlit simulator built with Qiskit 2.x and Qiskit Aer. Features gate-level QFT† synthesis, dyadic vs. non-dyadic benchmarks, precision scaling, and NISQ noise modeling. |
 | [**privacy-policy**](https://github.com/Hariprajwal/privacy-policy) | `HTML` | Simple, ready-to-use privacy policy templates for web applications and mobile apps. |
