@@ -290,7 +290,7 @@ class HariPrajwal:
 
 | Repository | Language | Description |
 | :--- | :---: | :--- |
-| [**mtech-cse-notes**](https://github.com/Hariprajwal/mtech-cse-notes) | `Code` | Open-source project by Hariprajwal |
+| [**mtech-cse-notes**](https://github.com/Hariprajwal/mtech-cse-notes) | `Code` | Comprehensive academic vault for M.Tech CSE -MIT courseworkLecture slides, textbook references, lab manuals & solutions, and exam question banks (ADSA, Systems Software, CSMP, HPCS, Quantum Computing). |
 | [**manhwahub**](https://github.com/Hariprajwal/manhwahub) | `HTML` | A modern, open-source Manhwa reader and tracker built with [Your Tech Stack]. View latest chapters and manage your reading list." This captures searchers looking for "open source manhwa reader" or "manhwa tracker." |
 | [**qiskit-qpe-simulator**](https://github.com/Hariprajwal/qiskit-qpe-simulator) | `Python` | End-to-end Quantum Phase Estimation (QPE) pipeline and interactive Streamlit simulator built with Qiskit 2.x and Qiskit Aer. Features gate-level QFT† synthesis, dyadic vs. non-dyadic benchmarks, precision scaling, and NISQ noise modeling. |
 | [**privacy-policy**](https://github.com/Hariprajwal/privacy-policy) | `HTML` | Simple, ready-to-use privacy policy templates for web applications and mobile apps. |
