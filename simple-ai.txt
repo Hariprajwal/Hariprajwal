@@ -1,0 +1,2 @@
+POLLINATIONS_URL=https://text.pollinations.ai/v1
+POLLINATIONS_MODEL=openai
